@@ -13,7 +13,7 @@ enum S {
     enum Symbols {
         static let photons = "mł"
         static let lites = "ł"
-        static let ltc = "Ł"
+        static let ltc = "Ƒ"
         static let narrowSpace = "\u{2009}"
         static let lock = "\u{1F512}"
         static let redX = "\u{274C}"
@@ -668,6 +668,6 @@ enum S {
 
     enum Welcome {
         static let title = NSLocalizedString("Welcome.title", value: "**Welcome to Litewallet**", comment: "Welcome view title")
-        static let body = NSLocalizedString("Welcome.body", value: "**Litewallet now has a brand new look and some new features.\n\nAll coins are displayed in lites (ł). 1 Litecoin (Ł) = 1000 lites (ł).**", comment: "Welcome view body text")
+        static let body = NSLocalizedString("Welcome.body", value: "**Litewallet now has a brand new look and some new features.\n\nAll coins are displayed in lites (ł). 1 Litecoin (Ƒ) = 1000 lites (ł).**", comment: "Welcome view body text")
     }
 }
