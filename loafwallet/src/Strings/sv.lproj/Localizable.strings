@@ -255,10 +255,10 @@
 "DefaultCurrency.rateLabel" = "Växelkurs";
 
 /* Donate Memo */
-"Donate.memo" = "Donation till Litecoin Foundation";
+"Donate.memo" = "Donation till Fastcoin Project";
 
-/* Donate to the Litecoin Foundation */
-"Donate.title" = "Tryck för att donera till Litecoin Foundation (%@)";
+/* Donate to the Fastcoin Project */
+"Donate.title" = "Tryck för att donera till Fastcoin Project (%@)";
 
 /* Donate Confirmation */
 "Donate.title.confirmation" = "Bekräfta donation";

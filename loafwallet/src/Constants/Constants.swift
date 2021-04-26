@@ -14,7 +14,7 @@ let kDonationAmountInDouble: Double = Double(kDonationAmount) / Double(100000000
   
 enum LWDonationAddress: String {
     case litwalletHardware = "Litewallet Hardware Fundraiser" //TODO: Remove after fundraiser goal is acheived in 2020
-    case generalLitecoinFoundation = "Litecoin Foundation"
+    case generalLitecoinFoundation = "Fastcoin Project"
   
     static let allValues = [litwalletHardware, generalLitecoinFoundation]
 

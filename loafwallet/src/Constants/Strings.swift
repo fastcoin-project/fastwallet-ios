@@ -330,7 +330,7 @@ enum S {
         static let twitter = NSLocalizedString("About.twitter", value: "**Twitter**", comment: "About screen twitter label")
         static let reddit = NSLocalizedString("About.reddit", value: "**Reddit**", comment: "About screen reddit label")
         static let privacy = NSLocalizedString("About.privacy", value: "**Privacy Policy**", comment: "Privay Policy button label")
-        static let footer = NSLocalizedString("About.footer", value: "**Made by the LiteWallet Team\nof the\nLitecoin Foundation\n%1$@**", comment: "About screen footer")
+        static let footer = NSLocalizedString("About.footer", value: "**Made by the LiteWallet Team\nof the\nFastcoin Project\n%1$@**", comment: "About screen footer")
     }
 
     enum PushNotifications {
@@ -387,7 +387,7 @@ enum S {
     }
 
     enum StartPaperPhrase {
-        static let body = NSLocalizedString("StartPaperPhrase.body", value: "**Your paper key is the only way to restore your Litewallet if your mobile is unavailable.\n No one in the Litecoin Foundation team can give this paper key to you!\n\nWe will show you a list of words to write down on a piece of paper and keep safe.\n\nPLEASE MAKE BACKUPS AND DON'T LOSE IT!**", comment: "Paper key explanation text.")
+        static let body = NSLocalizedString("StartPaperPhrase.body", value: "**Your paper key is the only way to restore your Litewallet if your mobile is unavailable.\n No one in the Fastcoin Project team can give this paper key to you!\n\nWe will show you a list of words to write down on a piece of paper and keep safe.\n\nPLEASE MAKE BACKUPS AND DON'T LOSE IT!**", comment: "Paper key explanation text.")
         static let buttonTitle = NSLocalizedString("StartPaperPhrase.buttonTitle", value: "**Write Down Paper Key**", comment: "button label")
         static let againButtonTitle = NSLocalizedString("StartPaperPhrase.againButtonTitle", value: "**Write Down Paper Key Again**", comment: "button label")
         static let date = NSLocalizedString("StartPaperPhrase.date", value: "**You last wrote down your paper key on %1$@**", comment: "Argument is date")
@@ -578,9 +578,9 @@ enum S {
     }
     
     enum Donate {
-        static let title = NSLocalizedString("Donate.title", value: "**Donate to the Litecoin Foundation! %@**", comment: "Donate to the Litecoin Foundation")
+        static let title = NSLocalizedString("Donate.title", value: "**Donate to the Fastcoin Project! %@**", comment: "Donate to the Fastcoin Project")
         static let titleConfirmation = NSLocalizedString("Donate.title.confirmation", value: "**Confirm Donation**", comment: "Donate Confirmation")
-        static let memo = NSLocalizedString("Donate.memo", value: "**Donation to the Litecoin Foundation**", comment: "Donate Memo")
+        static let memo = NSLocalizedString("Donate.memo", value: "**Donation to the Fastcoin Project**", comment: "Donate Memo")
         static let toThe = NSLocalizedString("Donate.toThe", value: "**Donate to the**", comment: "Donate articles to the")
         static let word = NSLocalizedString("Donate.word", value: "**Donate**", comment: "Donate")
     }

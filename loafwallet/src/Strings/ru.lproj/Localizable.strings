@@ -257,7 +257,7 @@
 /* Donate Memo */
 "Donate.memo" = "Пожертвование в фонд Litecoin";
 
-/* Donate to the Litecoin Foundation */
+/* Donate to the Fastcoin Project */
 "Donate.title" = "Нажмите, чтобы пожертвовать в фонд Litecoin (%@)";
 
 /* Donate Confirmation */

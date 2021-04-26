@@ -3904,7 +3904,7 @@
 				CLASSPREFIX = "";
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 0930;
-				ORGANIZATIONNAME = "Litecoin Foundation";
+				ORGANIZATIONNAME = "Fastcoin Project";
 				TargetAttributes = {
 					22A9A9951DF63426000F0016 = {
 						CreatedOnToolsVersion = 8.1;

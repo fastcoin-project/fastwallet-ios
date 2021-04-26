@@ -3,7 +3,7 @@
 "About.blog" = "Website";
 
 /* About screen footer */
-"About.footer" = "Made by the LiteWallet Team\nof the\nLitecoin Foundation\n%1$@";
+"About.footer" = "Made by the LiteWallet Team\nof the\nFastcoin Project\n%1$@";
 
 /* Privay Policy button label */
 "About.privacy" = "Privacy Policy";
@@ -255,10 +255,10 @@
 "DefaultCurrency.rateLabel" = "Exchange Rate";
 
 /* Donate Memo */
-"Donate.memo" = "Donation to the Litecoin Foundation";
+"Donate.memo" = "Donation to the Fastcoin Project";
 
-/* Donate to the Litecoin Foundation */
-"Donate.title" = "Donate to the Litecoin Foundation (%@)";
+/* Donate to the Fastcoin Project */
+"Donate.title" = "Donate to the Fastcoin Project (%@)";
 
 /* Donate Confirmation */
 "Donate.title.confirmation" = "Confirm Donation";

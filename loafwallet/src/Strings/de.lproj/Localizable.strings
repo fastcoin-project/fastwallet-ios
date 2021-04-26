@@ -255,10 +255,10 @@
 "DefaultCurrency.rateLabel" = "Wechselkurs";
 
 /* Donate Memo */
-"Donate.memo" = "Spende an die Litecoin Foundation";
+"Donate.memo" = "Spende an die Fastcoin Project";
 
-/* Donate to the Litecoin Foundation */
-"Donate.title" = "Spenden Sie an die Litecoin Foundation (%@)";
+/* Donate to the Fastcoin Project */
+"Donate.title" = "Spenden Sie an die Fastcoin Project (%@)";
 
 /* Donate Confirmation */
 "Donate.title.confirmation" = "Spendenbestätigung";

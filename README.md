@@ -8,14 +8,14 @@
 =======================================
 
 
-|                                   Hardware Campaign                                   	|                              General Litecoin Foundation                              	|
+|                                   Hardware Campaign                                   	|                              General Fastcoin Project                              	|
 |:-------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------:	|
 | [QR Code](https://blockchair.com/litecoin/address/MVRj1whQ8hqcpffjRxLLCJG1mD27V9YygY) 	| [QR Code](https://blockchair.com/litecoin/address/MDPqwDf9eUErGLcZNt1HN9HqnbFCSCSRme) 	|
 
 
 ### The easy and secure Litecoin wallet
 
-Litewallet is the best way to get started with Litecoin. Our simple, streamlined design is easy for beginners, yet powerful enough for experienced users. This is a free app produced by the Litecoin Foundation.
+Litewallet is the best way to get started with Litecoin. Our simple, streamlined design is easy for beginners, yet powerful enough for experienced users. This is a free app produced by the Fastcoin Project.
 
 iOS Users can visit the iOS version of the code here: [Litewallet iOS](https://github.com/litecoin-foundation/loafwallet-ios) 
 

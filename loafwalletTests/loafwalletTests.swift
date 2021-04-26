@@ -3,10 +3,10 @@
 //  loafwalletTests
 //
 //  Created by Kerry Washington on 12/14/19.
-//  Copyright © 2019 Litecoin Foundation. All rights reserved.
+//  Copyright © 2019 Fastcoin Project. All rights reserved.
 //
 
-import XCTest 
+import XCTest
 //@testable import loafwallet
 
 class loafwalletTests: XCTestCase {
@@ -18,7 +18,7 @@ class loafwalletTests: XCTestCase {
     override func tearDown() {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
- 
+
     func testPerformanceExample() {
         // This is an example of a performance test case.
         measure {

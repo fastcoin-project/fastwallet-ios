@@ -3,7 +3,7 @@
 //  loafwallet
 //
 //  Created by Kerry Washington on 2/18/20.
-//  Copyright © 2020 Litecoin Foundation. All rights reserved.
+//  Copyright © 2020 Fastcoin Project. All rights reserved.
 //
 
 import Foundation
