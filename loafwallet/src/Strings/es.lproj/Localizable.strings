@@ -181,7 +181,7 @@
 "BuyCenter.changellyTitle" = "Changelly";
 
 /* Buy Modal Title */
-"BuyCenter.ModalTitle" = "Comprar Łitecoin";
+"BuyCenter.ModalTitle" = "Comprar Ƒastcoin";
 
 /* Simplex buy financial details */
 "BuyCenter.simplexFinancialDetails" = "• ¡Obtenga Litecoin en 5 minutos! \n • Compre Litecoin con tarjeta de crédito \n • Pasaporte o identificación del estado";
@@ -190,7 +190,7 @@
 "BuyCenter.simplexTitle" = "Simplex";
 
 /* Buy Center Title */
-"BuyCenter.title" = "Comprar Łitecoin";
+"BuyCenter.title" = "Comprar Ƒastcoin";
 
 /* Camera plugin instruction */
 "CameraPlugin.centerInstruction" = "Centra tu ID en el recuadro";

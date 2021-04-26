@@ -180,7 +180,7 @@
 "BuyCenter.changellyTitle" = "Changelly";
 
 /* Buy Modal Title */
-"BuyCenter.ModalTitle" = "购买 Łitecoin";
+"BuyCenter.ModalTitle" = "购买 Ƒastcoin";
 
 /* Simplex buy financial details */
 "BuyCenter.simplexFinancialDetails" = "• 5分钟内获得Litecoin！\n •通过信用卡购买Litecoin \n •护照或州ID";
@@ -189,7 +189,7 @@
 "BuyCenter.simplexTitle" = "Simplex";
 
 /* Buy Center Title */
-"BuyCenter.title" = "购买 Łitecoin";
+"BuyCenter.title" = "购买 Ƒastcoin";
 
 /* Camera plugin instruction */
 "CameraPlugin.centerInstruction" = "将您的身份证号集中在方框中";
