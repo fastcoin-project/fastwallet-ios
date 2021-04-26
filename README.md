@@ -1,8 +1,8 @@
 [![Fastwallet](/images/header-ios.png)](https://itunes.apple.com/us/app/loafwallet/id1119332592)
-======================================= 
+=======================================
 
-[![Release](https://img.shields.io/github/v/release/litecoin-foundation/loafwallet-ios?style=plastic)](https://img.shields.io/github/v/release/litecoin-foundation/loafwallet-ios) 
-[![MIT License](https://img.shields.io/github/license/litecoin-foundation/loafwallet-ios?style=plastic)](https://img.shields.io/github/license/litecoin-foundation/loafwallet-ios?style=plastic)
+[![Release](https://img.shields.io/github/v/release/fastcoin-project/fastwallet-ios?style=plastic)](https://img.shields.io/github/v/release/fastcoin-project/fastwallet-ios)
+[![MIT License](https://img.shields.io/github/license/fastcoin-project/fastwallet-ios?style=plastic)](https://img.shields.io/github/license/fastcoin-project/fastwallet-ios?style=plastic)
 
 ![screenshots](/images/screenshots.jpg)
 =======================================
@@ -17,7 +17,7 @@
 
 Fastwallet is the best way to get started with Fastcoin. Our simple, streamlined design is easy for beginners, yet powerful enough for experienced users. This is a free app produced by the Fastcoin Project.
 
-iOS Users can visit the iOS version of the code here: [Fastwallet iOS](https://github.com/litecoin-foundation/loafwallet-ios) 
+iOS Users can visit the iOS version of the code here: [Fastwallet iOS](https://github.com/fastcoin-project/fastwallet-ios)
 
 ### Completely decentralized
 
@@ -58,11 +58,11 @@ Simplicity and ease-of-use is **Fastwallet**'s core design principle. A simple r
 - Russian
 - Spanish
 - Swedish
- 
+
 ---
 ### Fastwallet Development:
-[![GitHub issues](https://img.shields.io/github/issues/litecoin-foundation/loafwallet-ios?style=plastic)](https://github.com/litecoin-foundation/loafwallet-ios/re-frame/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/litecoin-foundation/loafwallet-ios?color=00ff00&style=plastic)](https://github.com/litecoin-foundation/loafwallet-ios/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/fastcoin-project/fastwallet-ios?style=plastic)](https://github.com/fastcoin-project/fastwallet-ios/re-frame/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/fastcoin-project/fastwallet-ios?color=00ff00&style=plastic)](https://github.com/fastcoin-project/fastwallet-ios/pulls)
 
 ### Building & Developing Fastwallet for iOS:
 ***Installation on jailbroken devices is strongly discouraged.***
@@ -72,4 +72,4 @@ Any jailbreak app can grant itself access to every other app's keychain data. Th
 ### Fastwallet Team:
 * [Development Code of Conduct](/development.md)
 ---
-**Fastcoin** source code is available at https://github.com/litecoin-foundation
+**Fastcoin** source code is available at https://github.com/fastcoin-project
