@@ -3,7 +3,7 @@
 //  loafwallet
 //
 //  Created by Kerry Washington on 4/7/19.
-//  Copyright © 2019 Fastcoin Project. All rights reserved.
+//  Copyright © 2021 Fastcoin Project. All rights reserved.
 //
 
 import Foundation
