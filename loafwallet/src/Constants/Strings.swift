@@ -24,7 +24,7 @@ enum S {
             case 5:
                 return "lites\(S.Symbols.narrowSpace)(\(S.Symbols.lites))"
             case 8:
-                return "LTC\(S.Symbols.narrowSpace)(\(S.Symbols.ltc))"
+                return "FST\(S.Symbols.narrowSpace)(\(S.Symbols.ltc))"
             default:
                 return "lites\(S.Symbols.narrowSpace)(\(S.Symbols.lites))"
             }
@@ -166,7 +166,7 @@ enum S {
 
     enum TransactionDetails {
         static let title = NSLocalizedString("TransactionDetails.title", value: "**Transaction Details**", comment: "Transaction Details Title")
-        static let receiveModaltitle = NSLocalizedString("TransactionDetails.receivedModalTitle", value: "**RECEIVE LTC**", comment: "RECEIVE LTCTitle")
+        static let receiveModaltitle = NSLocalizedString("TransactionDetails.receivedModalTitle", value: "**RECEIVE FST**", comment: "RECEIVE LTCTitle")
         static let statusHeader = NSLocalizedString("TransactionDetails.statusHeader", value: "**Status**", comment: "Status section header")
         static let commentsHeader = NSLocalizedString("TransactionDetails.commentsHeader", value: "**Memo**", comment: "Memo section header")
         static let amountHeader = NSLocalizedString("TransactionDetails.amountHeader", value: "**Amount**", comment: "Amount section header")
