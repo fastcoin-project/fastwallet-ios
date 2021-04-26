@@ -3,7 +3,7 @@
 "About.blog" = "Blog";
 
 /* About screen footer */
-"About.footer" = "Erstellt vom globalen Litewallet-Team. Version %1$@";
+"About.footer" = "Erstellt vom globalen Fastwallet-Team. Version %1$@";
 
 /* Privay Policy button label */
 "About.privacy" = "Datenschutzerklärung";
@@ -27,7 +27,7 @@
 "Account.loadingMessage" = "Wallet wird geladen";
 
 /* Default wallet name */
-"AccountHeader.defaultWalletName" = "Mein Litewallet";
+"AccountHeader.defaultWalletName" = "Mein Fastwallet";
 
 /* Manage wallet button title */
 "AccountHeader.manageButtonName" = "VERWALTEN";
@@ -285,13 +285,13 @@
 "FaceIDSettings.customizeText" = "Du kannst dein Face ID Ausgabenlimit über die %1$@ anpassen.";
 
 /* Face Id screen label */
-"FaceIDSettings.label" = "Benutze dein Gesicht, um deine Litewallet zu entsperren und Geld bis zu einem festgelegten Limit zu senden.";
+"FaceIDSettings.label" = "Benutze dein Gesicht, um deine Fastwallet zu entsperren und Geld bis zu einem festgelegten Limit zu senden.";
 
 /* Link Text (see FaceIdSettings.customizeText) */
 "FaceIDSettings.linkText" = "Face ID Ausgabenlimit-Bildschirm";
 
 /* Face id switch label. */
-"FaceIDSettings.switchLabel" = "Face ID für Litewallet aktivieren";
+"FaceIDSettings.switchLabel" = "Face ID für Fastwallet aktivieren";
 
 /* Face ID settings view title */
 "FaceIDSettings.title" = "Face ID";
@@ -366,7 +366,7 @@
 "Import.leftCaption" = "Zu importierendes Wallet";
 
 /* Import wallet intro screen message */
-"Import.message" = "Der Import eines Wallets überträgt das gesamte Guthaben deines anderen Wallets mit einer einzigen Transaktion in dein Litewallet.";
+"Import.message" = "Der Import eines Wallets überträgt das gesamte Guthaben deines anderen Wallets mit einer einzigen Transaktion in dein Fastwallet.";
 
 /* Enter password alert view title */
 "Import.password" = "Dieser private Schlüssel ist passwortgeschützt.";
@@ -375,7 +375,7 @@
 "Import.passwordPlaceholder" = "Passwort";
 
 /* Caption for graphics */
-"Import.rightCaption" = "Dein Litewallet";
+"Import.rightCaption" = "Dein Fastwallet";
 
 /* Scan Private key button label */
 "Import.scan" = "Privaten Schlüssel scannen";
@@ -408,7 +408,7 @@
 "JailbreakWarnings.messageWithBalance" = "DAS GERÄT IST NICHT LÄNGER SICHER\nJede beliebige „Jailbreak“-App kann auf Litewallets Keychain-Daten zugreifen und deine Fastcoins stehlen! Lösche dieses Wallet unverzüglich und stelle es auf einem sicheren Gerät wieder her.";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithoutBalance" = "DAS GERÄT IST NICHT LÄNGER SICHER\nJede beliebige „Jailbreak“-App kann auf Litewallets Keychain-Daten zugreifen und deine Fastcoins stehlen. Bitte setze Litewallet ausschließlich auf Geräten ohne Jailbreak ein.";
+"JailbreakWarnings.messageWithoutBalance" = "DAS GERÄT IST NICHT LÄNGER SICHER\nJede beliebige „Jailbreak“-App kann auf Litewallets Keychain-Daten zugreifen und deine Fastcoins stehlen. Bitte setze Fastwallet ausschließlich auf Geräten ohne Jailbreak ein.";
 
 /* Jailbreak warning title */
 "JailbreakWarnings.title" = "ACHTUNG";
@@ -420,7 +420,7 @@
 "LocationPlugin.disabled" = "Standortdienste sind deaktiviert";
 
 /* No permissions for location services */
-"LocationPlugin.notAuthorized" = "Litewallet fehlt die Berechtigung, um auf die Standortdienste zuzugreifen.";
+"LocationPlugin.notAuthorized" = "Fastwallet fehlt die Berechtigung, um auf die Standortdienste zuzugreifen.";
 
 /* No comment provided by engineer. */
 "Malformed URI" = "Fehlgestalteter URI";
@@ -555,13 +555,13 @@
 "Prompts.RecommendRescan.title" = "Transaktion abgelehnt";
 
 /* Upgrade PIN prompt body. */
-"Prompts.SetPin.body" = "Litewallet nutzt mittlerweile eine 6-stellige PIN. Hier antippen, um upzugraden.";
+"Prompts.SetPin.body" = "Fastwallet nutzt mittlerweile eine 6-stellige PIN. Hier antippen, um upzugraden.";
 
 /* Upgrade PIN prompt title. */
 "Prompts.SetPin.title" = "PIN upgraden";
 
 /* Share data prompt body */
-"Prompts.ShareData.body" = "Tragen Sie zur Verbesserung von Litewallet bei, indem Sie Ihre anonymen Daten mit uns teilen";
+"Prompts.ShareData.body" = "Tragen Sie zur Verbesserung von Fastwallet bei, indem Sie Ihre anonymen Daten mit uns teilen";
 
 /* Share data prompt title */
 "Prompts.ShareData.title" = "Anonyme Daten teilen";
@@ -573,7 +573,7 @@
 "Prompts.TouchId.title" = "Touch ID aktivieren";
 
 /* Notifications will be added later but users can set their preferences now, which is why we specify "in the future". */
-"PushNotifications.body" = "Schalten Sie Benachrichtigungen ein, um in Zukunft besondere Meldungen von Litewallet zu erhalten.";
+"PushNotifications.body" = "Schalten Sie Benachrichtigungen ein, um in Zukunft besondere Meldungen von Fastwallet zu erhalten.";
 
 /* Push notifications toggle switch label */
 "PushNotifications.label" = "Push-Benachrichtigungen";
@@ -621,7 +621,7 @@
 "RecoverWallet.instruction" = "Offlineschlüssel eingeben";
 
 /* Recover wallet intro */
-"RecoverWallet.intro" = "Stelle dein Litewallet mithilfe deines Offlineschlüssels wieder her.";
+"RecoverWallet.intro" = "Stelle dein Fastwallet mithilfe deines Offlineschlüssels wieder her.";
 
 /* Invalid paper key message */
 "RecoverWallet.invalid" = "Der von dir eingegebene Offlineschlüssel ist ungültig. Bitte überprüfe nochmal jedes Wort und versuche es erneut.";
@@ -663,7 +663,7 @@
 "ReScan.body1" = "20–45 Minuten";
 
 /* Syncing explanation */
-"ReScan.body2" = "Wenn eine Transaktion im Fastcoin-Netzwerk, aber nicht in deinem Litewallet als abgeschlossen angezeigt wird.";
+"ReScan.body2" = "Wenn eine Transaktion im Fastcoin-Netzwerk, aber nicht in deinem Fastwallet als abgeschlossen angezeigt wird.";
 
 /* Syncing explanation */
 "ReScan.body3" = "Sie erhalten wiederholt eine Fehlermeldung, dass Ihre Transaktion abgewiesen wurde.";
@@ -717,7 +717,7 @@
 "SecurityCenter.paperKeyTitle" = "Offlineschlüssel";
 
 /* PIN button description */
-"SecurityCenter.pinDescription" = "Schütze dein Litewallet vor nicht autorisierten Benutzern.";
+"SecurityCenter.pinDescription" = "Schütze dein Fastwallet vor nicht autorisierten Benutzern.";
 
 /* PIN button title */
 "SecurityCenter.pinTitle" = "6-stellige PIN";
@@ -726,7 +726,7 @@
 "SecurityCenter.title" = "Sicherheits-Center";
 
 /* Touch ID button description */
-"SecurityCenter.touchIdDescription" = "Eine praktische Möglichkeit, dein Litewallet zu entsperren und Geld bis zu einer festlegbaren Höchstgrenze zu versenden.";
+"SecurityCenter.touchIdDescription" = "Eine praktische Möglichkeit, dein Fastwallet zu entsperren und Geld bis zu einer festlegbaren Höchstgrenze zu versenden.";
 
 /* Touch ID button title */
 "SecurityCenter.touchIdTitle" = "Touch ID";
@@ -744,7 +744,7 @@
 "Send.cameraunavailableMessage" = "Rufe die Einstellungen auf, um den Zugriff auf die Kamera zu erlauben.";
 
 /* Camera not allowed alert title */
-"Send.cameraUnavailableTitle" = "Litewallet darf nicht auf die Kamera zugreifen";
+"Send.cameraUnavailableTitle" = "Fastwallet darf nicht auf die Kamera zugreifen";
 
 /* Warning when sending to self. */
 "Send.containsAddress" = "Das Ziel ist deine eigene Adresse. Du kannst nichts an dich selbst senden.";
@@ -833,8 +833,8 @@
 /* Join Early access label */
 "Settings.earlyAccess" = "Zum Early Access anmelden";
 
-/* Are you enjoying Litewallet alert message body */
-"Settings.enjoying" = "Gefällt dir Litewallet?";
+/* Are you enjoying Fastwallet alert message body */
+"Settings.enjoying" = "Gefällt dir Fastwallet?";
 
 /* Face ID spending limit label */
 "Settings.faceIdLimit" = "Gesichts-ID Ausgabenlimit";
@@ -845,11 +845,11 @@
 /* Languages label */
 "Settings.languages" = "Sprachen";
 
-/* Litewallet environment */
+/* Fastwallet environment */
 "Settings.litewallet.environment" = "Umgebung:";
 
-/* Litewallet version */
-"Settings.litewallet.version" = "Litewallet-Version:";
+/* Fastwallet version */
+"Settings.litewallet.version" = "Fastwallet-Version:";
 
 /* Manage settings section header */
 "Settings.manage" = "Verwalten";
@@ -863,7 +863,7 @@
 /* Share anonymous data label */
 "Settings.shareData" = "Übermittle anonyme Nutzungsdaten";
 
-/* Litewallet Social links */
+/* Fastwallet Social links */
 "Settings.socialLinks" = "Social";
 
 /* Support settings section header */
@@ -885,7 +885,7 @@
 "Settings.wipe" = "Ein anderes Wallet starten/wiederherstellen";
 
 /* Share data view body */
-"ShareData.body" = "Hilf dabei, Litewallet zu verbessern, indem du uns deine Nutzungsdaten anonym übermittelst. Hiervon sind sämtliche Finanzinformationen ausgeschlossen. Wir respektieren deine finanzielle Privatsphäre.";
+"ShareData.body" = "Hilf dabei, Fastwallet zu verbessern, indem du uns deine Nutzungsdaten anonym übermittelst. Hiervon sind sämtliche Finanzinformationen ausgeschlossen. Wir respektieren deine finanzielle Privatsphäre.";
 
 /* Share data header */
 "ShareData.header" = "Nutzungsdaten übermitteln?";
@@ -900,7 +900,7 @@
 "StartPaperPhrase.againButtonTitle" = "Offlineschlüssel erneut notieren";
 
 /* Paper key explanation text. */
-"StartPaperPhrase.body" = "Dein Offlineschlüssel ist die einzige Möglichkeit, dein Litewallet wiederherzustellen, falls du dein Smartphone verlierst, austauscht, es gestohlen wird oder kaputtgeht.\n\nHierfür zeigen wir dir eine Liste von Wörtern an, damit du sie dir auf ein Stück Papier notieren kannst, das es sicher aufzubewahren gilt.";
+"StartPaperPhrase.body" = "Dein Offlineschlüssel ist die einzige Möglichkeit, dein Fastwallet wiederherzustellen, falls du dein Smartphone verlierst, austauscht, es gestohlen wird oder kaputtgeht.\n\nHierfür zeigen wir dir eine Liste von Wörtern an, damit du sie dir auf ein Stück Papier notieren kannst, das es sicher aufzubewahren gilt.";
 
 /* button label */
 "StartPaperPhrase.buttonTitle" = "Offlineschlüssel notieren";
@@ -945,7 +945,7 @@
 "TouchIdSettings.customizeText" = "Sie können über %1$@ ein Ausgabenmaximum für Touch ID festlegen.";
 
 /* Touch Id screen label */
-"TouchIdSettings.label" = "Nutze deinen Fingerabdruck, um dein Litewallet zu entsperren und Geld bis zu einer festlegbaren Höchstgrenze zu versenden.";
+"TouchIdSettings.label" = "Nutze deinen Fingerabdruck, um dein Fastwallet zu entsperren und Geld bis zu einer festlegbaren Höchstgrenze zu versenden.";
 
 /*  ƒ100,000 ($100) */
 "TouchIdSettings.limitValue" = "%1$@ (%2$@)";
@@ -957,7 +957,7 @@
 "TouchIdSettings.spendingLimit" = "Ausgabelimit: %1$@  (%2$@)";
 
 /* Touch id switch label. */
-"TouchIdSettings.switchLabel" = "Touch ID für Litewallet aktivieren";
+"TouchIdSettings.switchLabel" = "Touch ID für Fastwallet aktivieren";
 
 /* Touch ID settings view title */
 "TouchIdSettings.title" = "Touch ID";
@@ -1119,7 +1119,7 @@
 "UnlockScreen.scan" = "Scannen";
 
 /* TouchID prompt text */
-"UnlockScreen.touchIdPrompt" = "Entsperre dein Litewallet.";
+"UnlockScreen.touchIdPrompt" = "Entsperre dein Fastwallet.";
 
 /* Unlock with TouchID accessibility label */
 "UnlockScreen.touchIdText" = "Mit Touch ID entsperren";
@@ -1131,7 +1131,7 @@
 "UpdatePin.caption" = "Merke dir diese PIN. Falls du sie vergisst, kannst du nicht mehr auf deine Fastcoins zugreifen.";
 
 /* PIN creation info. */
-"UpdatePin.createInstruction" = "Deine PIN wird verwendet, um dein Litewallet zu entsperren und Geld zu versenden.";
+"UpdatePin.createInstruction" = "Deine PIN wird verwendet, um dein Fastwallet zu entsperren und Geld zu versenden.";
 
 /* Update PIN title */
 "UpdatePin.createTitle" = "PIN festlegen";
@@ -1182,7 +1182,7 @@
 "VerifyPin.touchIdMessage" = "Diese Transaktion genehmigen";
 
 /* 'No wallet' warning for watch app */
-"Watch.noWalletWarning" = "Öffne die Litewallet-iPhone-App, um dein Wallet einzurichten.";
+"Watch.noWalletWarning" = "Öffne die Fastwallet-iPhone-App, um dein Wallet einzurichten.";
 
 /* Dismiss button label */
 "Webview.dismiss" = "Verwerfen";
@@ -1194,10 +1194,10 @@
 "Webview.updating" = "Aktualisierung läuft …";
 
 /* Welcome screen text. (?) will be replaced with the help icon users should look for. */
-"Welcome.body" = "Willkommen bei Litewallet!";
+"Welcome.body" = "Willkommen bei Fastwallet!";
 
 /* Top title of welcome screen */
-"Welcome.title" = "Willkommen bei Litewallet!";
+"Welcome.title" = "Willkommen bei Fastwallet!";
 
 /* Delete database title */
 "WipeWallet.alertDeleteTitle" = "Datenbank löschen";
@@ -1230,10 +1230,10 @@
 "WipeWallet.instruction" = "Geben Sie die Wiederherstellungsphrase des Wallets ein, um es zu löschen und die Wiederherstellung eines anderen Wallets zu beginnen. Ihr aktueller Kontostand bleibt mit dieser Phrase verbunden.";
 
 /* Start wipe wallet view message */
-"WipeWallet.startMessage" = "Das Anlegen oder Wiederherstellen einer weiteren Wallet ermöglicht es Ihnen, auf diesem Gerät auf eine andere Litewallet zuzugreifen und diese zu verwalten.";
+"WipeWallet.startMessage" = "Das Anlegen oder Wiederherstellen einer weiteren Wallet ermöglicht es Ihnen, auf diesem Gerät auf eine andere Fastwallet zuzugreifen und diese zu verwalten.";
 
 /* Start wipe wallet view warning */
-"WipeWallet.startWarning" = "Sie werden von diesem Gerät aus keinen Zugriff auf Ihr aktuelles Litewallet mehr haben. Der Saldo verbleibt auf dem Satz.";
+"WipeWallet.startWarning" = "Sie werden von diesem Gerät aus keinen Zugriff auf Ihr aktuelles Fastwallet mehr haben. Der Saldo verbleibt auf dem Satz.";
 
 /* Wipe wallet navigation item title. */
 "WipeWallet.title" = "Ein anderes Wallet beginnen oder wiederherstellen";

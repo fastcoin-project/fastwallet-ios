@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "75A2A78F1DA5934300A983D8"
-               BuildableName = "Litewallet.app"
+               BuildableName = "Fastwallet.app"
                BlueprintName = "loafwallet"
                ReferencedContainer = "container:loafwallet.xcodeproj">
             </BuildableReference>
@@ -96,7 +96,7 @@
       <RemoteRunnable
          runnableDebuggingMode = "2"
          BundleIdentifier = "com.apple.Carousel"
-         RemotePath = "/Litewallet">
+         RemotePath = "/Fastwallet">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "75A2A7B71DA5934300A983D8"
@@ -115,7 +115,7 @@
       <RemoteRunnable
          runnableDebuggingMode = "2"
          BundleIdentifier = "com.apple.Carousel"
-         RemotePath = "/Litewallet">
+         RemotePath = "/Fastwallet">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "75A2A7B71DA5934300A983D8"

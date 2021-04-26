@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "75A2A78F1DA5934300A983D8"
-               BuildableName = "Litewallet.app"
+               BuildableName = "Fastwallet.app"
                BlueprintName = "loafwallet"
                ReferencedContainer = "container:loafwallet.xcodeproj">
             </BuildableReference>
@@ -32,7 +32,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "75A2A78F1DA5934300A983D8"
-            BuildableName = "Litewallet.app"
+            BuildableName = "Fastwallet.app"
             BlueprintName = "loafwallet"
             ReferencedContainer = "container:loafwallet.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "75A2A78F1DA5934300A983D8"
-            BuildableName = "Litewallet.app"
+            BuildableName = "Fastwallet.app"
             BlueprintName = "loafwallet"
             ReferencedContainer = "container:loafwallet.xcodeproj">
          </BuildableReference>
@@ -99,7 +99,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "75A2A78F1DA5934300A983D8"
-            BuildableName = "Litewallet.app"
+            BuildableName = "Fastwallet.app"
             BlueprintName = "loafwallet"
             ReferencedContainer = "container:loafwallet.xcodeproj">
          </BuildableReference>

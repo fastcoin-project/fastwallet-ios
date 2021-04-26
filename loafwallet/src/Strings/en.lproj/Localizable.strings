@@ -27,7 +27,7 @@
 "Account.loadingMessage" = "Loading Wallet";
 
 /* Default wallet name */
-"AccountHeader.defaultWalletName" = "My Litewallet";
+"AccountHeader.defaultWalletName" = "My Fastwallet";
 
 /* Manage wallet button title */
 "AccountHeader.manageButtonName" = "MANAGE";
@@ -285,13 +285,13 @@
 "FaceIDSettings.customizeText" = "You can customize your Face ID spending limit from the %1$@.";
 
 /* Face ID screen label */
-"FaceIDSettings.label" = "Use your face to unlock your Litewallet and send money up to a set limit.";
+"FaceIDSettings.label" = "Use your face to unlock your Fastwallet and send money up to a set limit.";
 
 /* Link Text (see TouchIdSettings.customizeText) */
 "FaceIDSettings.linkText" = "Face ID Spending Limit Screen";
 
 /* Face id switch label. */
-"FaceIDSettings.switchLabel" = "Enable Face ID for Litewallet";
+"FaceIDSettings.switchLabel" = "Enable Face ID for Fastwallet";
 
 /* Face ID settings view title */
 "FaceIDSettings.title" = "Face ID";
@@ -366,7 +366,7 @@
 "Import.leftCaption" = "Wallet to be imported";
 
 /* Import wallet intro screen message */
-"Import.message" = "Importing a wallet transfers all the money from your other wallet into your Litewallet wallet using a single transaction.";
+"Import.message" = "Importing a wallet transfers all the money from your other wallet into your Fastwallet wallet using a single transaction.";
 
 /* Enter password alert view title */
 "Import.password" = "This private key is password protected.";
@@ -375,7 +375,7 @@
 "Import.passwordPlaceholder" = "password";
 
 /* Caption for graphics */
-"Import.rightCaption" = "Your Litewallet Wallet";
+"Import.rightCaption" = "Your Fastwallet Wallet";
 
 /* Scan Private key button label */
 "Import.scan" = "Scan Private Key";
@@ -405,10 +405,10 @@
 "JailbreakWarnings.ignore" = "Ignore";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithBalance" = "DEVICE SECURITY COMPROMISED\n Any 'jailbreak' app can access Litewallet's keychain data and steal your Fastcoin! Wipe this wallet immediately and restore on a secure device.";
+"JailbreakWarnings.messageWithBalance" = "DEVICE SECURITY COMPROMISED\n Any 'jailbreak' app can access Fastwallet's keychain data and steal your Fastcoin! Wipe this wallet immediately and restore on a secure device.";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithoutBalance" = "DEVICE SECURITY COMPROMISED\n Any 'jailbreak' app can access Litewallet's keychain data and steal your Fastcoin. Please only use Litewallet on a non-jailbroken device.";
+"JailbreakWarnings.messageWithoutBalance" = "DEVICE SECURITY COMPROMISED\n Any 'jailbreak' app can access Fastwallet's keychain data and steal your Fastcoin. Please only use Fastwallet on a non-jailbroken device.";
 
 /* Jailbreak warning title */
 "JailbreakWarnings.title" = "WARNING";
@@ -420,7 +420,7 @@
 "LocationPlugin.disabled" = "Location services are disabled.";
 
 /* No permissions for location services */
-"LocationPlugin.notAuthorized" = "Litewallet does not have permission to access location services.";
+"LocationPlugin.notAuthorized" = "Fastwallet does not have permission to access location services.";
 
 /* No comment provided by engineer. */
 "Malformed URI" = "Malformed URI";
@@ -537,7 +537,7 @@
 "Prompts.PaperKey.affirm" = "Continue";
 
 /* Warning about paper key. */
-"Prompts.PaperKey.body" = "Your Paper Key must be kept in a safe place. It is the only way modify or restore your Litewallet or transfer your Fastcoin. Please write it down.";
+"Prompts.PaperKey.body" = "Your Paper Key must be kept in a safe place. It is the only way modify or restore your Fastwallet or transfer your Fastcoin. Please write it down.";
 
 /* Cancel button. */
 "Prompts.PaperKey.cancel" = "Cancel";
@@ -555,13 +555,13 @@
 "Prompts.RecommendRescan.title" = "Transaction Rejected";
 
 /* Upgrade PIN prompt body. */
-"Prompts.SetPin.body" = "Litewallet requires a 6-digit PIN. Please set and store your PIN in a safe place.";
+"Prompts.SetPin.body" = "Fastwallet requires a 6-digit PIN. Please set and store your PIN in a safe place.";
 
 /* Upgrade PIN prompt title. */
 "Prompts.SetPin.title" = "Set PIN";
 
 /* Share data prompt body */
-"Prompts.ShareData.body" = "Help improve Litewallet by sharing your anonymous data with us";
+"Prompts.ShareData.body" = "Help improve Fastwallet by sharing your anonymous data with us";
 
 /* Share data prompt title */
 "Prompts.ShareData.title" = "Share Anonymous Data";
@@ -573,7 +573,7 @@
 "Prompts.TouchId.title" = "Enable Touch ID";
 
 /* Push notifications settings view body */
-"PushNotifications.body" = "Turn on notifications to receive special messages from Litewallet in the future.";
+"PushNotifications.body" = "Turn on notifications to receive special messages from Fastwallet in the future.";
 
 /* Push notifications toggle switch label */
 "PushNotifications.label" = "Push Notifications";
@@ -621,7 +621,7 @@
 "RecoverWallet.instruction" = "Enter Paper Key";
 
 /* Recover wallet intro */
-"RecoverWallet.intro" = "Recover your Litewallet with your paper key.";
+"RecoverWallet.intro" = "Recover your Fastwallet with your paper key.";
 
 /* Invalid paper key message */
 "RecoverWallet.invalid" = "The paper key you entered is invalid. Please double-check each word and try again.";
@@ -663,7 +663,7 @@
 "ReScan.body1" = "20-45 minutes";
 
 /* Syncing explanation */
-"ReScan.body2" = "If a transaction shows as completed on the Fastcoin network but not in your Litewallet.";
+"ReScan.body2" = "If a transaction shows as completed on the Fastcoin network but not in your Fastwallet.";
 
 /* Syncing explanation */
 "ReScan.body3" = "You repeatedly get an error saying your transaction was rejected.";
@@ -717,7 +717,7 @@
 "SecurityCenter.paperKeyTitle" = "Paper Key";
 
 /* PIN button description */
-"SecurityCenter.pinDescription" = "Protects your Litewallet from unauthorized users.";
+"SecurityCenter.pinDescription" = "Protects your Fastwallet from unauthorized users.";
 
 /* PIN button title */
 "SecurityCenter.pinTitle" = "6-Digit PIN";
@@ -726,7 +726,7 @@
 "SecurityCenter.title" = "Security Center";
 
 /* Touch ID/FaceID button description */
-"SecurityCenter.touchIdDescription" = "Conveniently unlock your Litewallet and send money up to a set limit.";
+"SecurityCenter.touchIdDescription" = "Conveniently unlock your Fastwallet and send money up to a set limit.";
 
 /* Touch ID button title */
 "SecurityCenter.touchIdTitle" = "Touch ID";
@@ -744,7 +744,7 @@
 "Send.cameraunavailableMessage" = "Go to Settings to allow camera access.";
 
 /* Camera not allowed alert title */
-"Send.cameraUnavailableTitle" = "Litewallet is not allowed to access the camera";
+"Send.cameraUnavailableTitle" = "Fastwallet is not allowed to access the camera";
 
 /* Warning when sending to self. */
 "Send.containsAddress" = "The destination is your own address. You cannot send to yourself.";
@@ -833,8 +833,8 @@
 /* Join Early access label */
 "Settings.earlyAccess" = "Join Early Access";
 
-/* Are you enjoying Litewallet alert message body */
-"Settings.enjoying" = "Are you enjoying Litewallet?";
+/* Are you enjoying Fastwallet alert message body */
+"Settings.enjoying" = "Are you enjoying Fastwallet?";
 
 /* Face ID spending limit label */
 "Settings.faceIdLimit" = "Face ID Spending Limit";
@@ -845,11 +845,11 @@
 /* Languages label */
 "Settings.languages" = "Languages";
 
-/* Litewallet environment */
+/* Fastwallet environment */
 "Settings.litewallet.environment" = "Environment:";
 
-/* Litewallet version */
-"Settings.litewallet.version" = "Litewallet version:";
+/* Fastwallet version */
+"Settings.litewallet.version" = "Fastwallet version:";
 
 /* Manage settings section header */
 "Settings.manage" = "Manage";
@@ -863,7 +863,7 @@
 /* Share anonymous data label */
 "Settings.shareData" = "Share Anonymous Data";
 
-/* Litewallet Social links */
+/* Fastwallet Social links */
 "Settings.socialLinks" = "Social";
 
 /* Support settings section header */
@@ -885,7 +885,7 @@
 "Settings.wipe" = "Start/Recover Another Wallet";
 
 /* Share data view body */
-"ShareData.body" = "Help improve Litewallet by sharing your anonymous data with us. This does not include any financial information. We respect your financial privacy.";
+"ShareData.body" = "Help improve Fastwallet by sharing your anonymous data with us. This does not include any financial information. We respect your financial privacy.";
 
 /* Share data header */
 "ShareData.header" = "Share Data?";
@@ -900,7 +900,7 @@
 "StartPaperPhrase.againButtonTitle" = "Write Down Paper Key Again";
 
 /* Paper key explanation text. */
-"StartPaperPhrase.body" = "Your paper key is the only way to restore your Litewallet if your phone is lost, stolen, broken, or upgraded.\n\nWe will show you a list of words to write down on a piece of paper and keep safe.";
+"StartPaperPhrase.body" = "Your paper key is the only way to restore your Fastwallet if your phone is lost, stolen, broken, or upgraded.\n\nWe will show you a list of words to write down on a piece of paper and keep safe.";
 
 /* button label */
 "StartPaperPhrase.buttonTitle" = "Write Down Paper Key";
@@ -945,7 +945,7 @@
 "TouchIdSettings.customizeText" = "You can customize your Touch ID spending limit from the %1$@.";
 
 /* Touch Id screen label */
-"TouchIdSettings.label" = "Use your fingerprint to unlock your Litewallet and send money up to a set limit.";
+"TouchIdSettings.label" = "Use your fingerprint to unlock your Fastwallet and send money up to a set limit.";
 
 /*  ƒ100,000 ($100) */
 "TouchIdSettings.limitValue" = "%1$@ (%2$@)";
@@ -957,7 +957,7 @@
 "TouchIdSettings.spendingLimit" = "Spending limit: %1$@ (%2$@)";
 
 /* Touch id switch label. */
-"TouchIdSettings.switchLabel" = "Enable Touch ID for Litewallet";
+"TouchIdSettings.switchLabel" = "Enable Touch ID for Fastwallet";
 
 /* Touch ID settings view title */
 "TouchIdSettings.title" = "Touch ID";
@@ -1119,7 +1119,7 @@
 "UnlockScreen.scan" = "Scan";
 
 /* TouchID/FaceID prompt text */
-"UnlockScreen.touchIdPrompt" = "Unlock your Litewallet.";
+"UnlockScreen.touchIdPrompt" = "Unlock your Fastwallet.";
 
 /* Unlock with TouchID accessibility label */
 "UnlockScreen.touchIdText" = "Unlock with TouchID";
@@ -1131,7 +1131,7 @@
 "UpdatePin.caption" = "Remember this PIN. If you forget it, you won't be able to access your Fastcoin.";
 
 /* PIN creation info. */
-"UpdatePin.createInstruction" = "Your PIN will be used to unlock your Litewallet and send money.";
+"UpdatePin.createInstruction" = "Your PIN will be used to unlock your Fastwallet and send money.";
 
 /* Update PIN title */
 "UpdatePin.createTitle" = "Set PIN";
@@ -1182,7 +1182,7 @@
 "VerifyPin.touchIdMessage" = "Authorize this transaction";
 
 /* 'No wallet' warning for watch app */
-"Watch.noWalletWarning" = "Open the Litewallet iPhone app to set up your wallet.";
+"Watch.noWalletWarning" = "Open the Fastwallet iPhone app to set up your wallet.";
 
 /* Dismiss button label */
 "Webview.dismiss" = "Dismiss";
@@ -1194,10 +1194,10 @@
 "Webview.updating" = "Updating...";
 
 /* Welcome view body text */
-"Welcome.body" = "Litewallet now has a brand new look and some new features.\n\nAll coins are displayed in lites (ƒ). 1 Fastcoin (Ƒ) = 1000 lites (ƒ).";
+"Welcome.body" = "Fastwallet now has a brand new look and some new features.\n\nAll coins are displayed in lites (ƒ). 1 Fastcoin (Ƒ) = 1000 lites (ƒ).";
 
 /* Welcome view title */
-"Welcome.title" = "Welcome to Litewallet!";
+"Welcome.title" = "Welcome to Fastwallet!";
 
 /* Delete database title */
 "WipeWallet.alertDeleteTitle" = "Delete Database";
@@ -1230,7 +1230,7 @@
 "WipeWallet.instruction" = "To start a new wallet or restore an existing wallet, you must first erase the wallet that is currently installed. To continue, enter the current wallet's Paper Key.";
 
 /* Start wipe wallet view message */
-"WipeWallet.startMessage" = "Starting or recovering another wallet allows you to access and manage a different Litewallet wallet on this device.";
+"WipeWallet.startMessage" = "Starting or recovering another wallet allows you to access and manage a different Fastwallet wallet on this device.";
 
 /* Start wipe wallet view warning */
 "WipeWallet.startWarning" = "Your current wallet will be removed from this device. If you wish to restore it in the future, you will need to enter your Paper Key.";
