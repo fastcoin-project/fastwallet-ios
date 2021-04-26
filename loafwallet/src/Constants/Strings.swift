@@ -11,8 +11,8 @@ import Foundation
 enum S {
 
     enum Symbols {
-        static let photons = "mł"
-        static let lites = "ł"
+        static let photons = "mƒ"
+        static let lites = "ƒ"
         static let ltc = "Ƒ"
         static let narrowSpace = "\u{2009}"
         static let lock = "\u{1F512}"
@@ -270,7 +270,7 @@ enum S {
         static let unavailableAlertTitle = NSLocalizedString("TouchIdSettings.unavailableAlertTitle", value: "**Touch ID Not Set Up**", comment: "Touch ID unavailable alert title")
         static let unavailableAlertMessage = NSLocalizedString("TouchIdSettings.unavailableAlertMessage", value: "**You have not set up Touch ID on this device. Go to Settings->Touch ID & Passcode to set it up now.**", comment: "Touch ID unavailable alert message")
         static let spendingLimit = NSLocalizedString("TouchIdSettings.spendingLimit", value: "**Spending limit: %1$@ (%2$@)**", comment: "Spending Limit: b100,000 ($100)")
-        static let limitValue = NSLocalizedString("TouchIdSettings.limitValue", value: "**%1$@ (%2$@)**", comment: " ł100,000 ($100)")
+        static let limitValue = NSLocalizedString("TouchIdSettings.limitValue", value: "**%1$@ (%2$@)**", comment: " ƒ100,000 ($100)")
         static let customizeText = NSLocalizedString("TouchIdSettings.customizeText", value: "**You can customize your Touch ID spending limit from the %1$@.**", comment: "You can customize your Touch ID Spending Limit from the [TouchIdSettings.linkText gets added here as a button]")
         static let linkText = NSLocalizedString("TouchIdSettings.linkText", value: "**Touch ID Spending Limit Screen**", comment: "Link Text (see TouchIdSettings.customizeText)")
     }
@@ -668,6 +668,6 @@ enum S {
 
     enum Welcome {
         static let title = NSLocalizedString("Welcome.title", value: "**Welcome to Litewallet**", comment: "Welcome view title")
-        static let body = NSLocalizedString("Welcome.body", value: "**Litewallet now has a brand new look and some new features.\n\nAll coins are displayed in lites (ł). 1 Litecoin (Ƒ) = 1000 lites (ł).**", comment: "Welcome view body text")
+        static let body = NSLocalizedString("Welcome.body", value: "**Litewallet now has a brand new look and some new features.\n\nAll coins are displayed in lites (ƒ). 1 Litecoin (Ƒ) = 1000 lites (ƒ).**", comment: "Welcome view body text")
     }
 }

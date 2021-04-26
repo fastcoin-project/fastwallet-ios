@@ -947,7 +947,7 @@
 /* Touch Id screen label */
 "TouchIdSettings.label" = "Använd ditt fingeravtryck för att låsa upp Litewallet och skicka pengar upp till en inställd gräns.";
 
-/*  ł100,000 ($100) */
+/*  ƒ100,000 ($100) */
 "TouchIdSettings.limitValue" = "%1$@ (%2$@)";
 
 /* Link Text (see TouchIdSettings.customizeText) */

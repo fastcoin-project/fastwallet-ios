@@ -947,7 +947,7 @@
 /* Touch Id screen label */
 "TouchIdSettings.label" = "Utilizza l'impronta digitale per sbloccare il tuo Litewallet e inviare denaro fino a un limite impostato.";
 
-/*  ł100,000 ($100) */
+/*  ƒ100,000 ($100) */
 "TouchIdSettings.limitValue" = "%1$@ (%2$@)";
 
 /* Link Text (see TouchIdSettings.customizeText) */

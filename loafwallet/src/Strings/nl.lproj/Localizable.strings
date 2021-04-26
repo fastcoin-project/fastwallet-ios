@@ -947,7 +947,7 @@
 /* Touch Id screen label */
 "TouchIdSettings.label" = "Gebruik je vingerafdruk om je Litewallet te ontgrendelen en geld tot een ingestelde limiet te versturen.";
 
-/*  ł100,000 ($100) */
+/*  ƒ100,000 ($100) */
 "TouchIdSettings.limitValue" = "%1$@ (%2$@)";
 
 /* Link Text (see TouchIdSettings.customizeText) */

@@ -947,7 +947,7 @@
 /* Touch Id screen label */
 "TouchIdSettings.label" = "지문을 사용하여 브레드의 보안을 해제하고 설정된 금액으로 송금할 수 있습니다.";
 
-/*  ł100,000 ($100) */
+/*  ƒ100,000 ($100) */
 "TouchIdSettings.limitValue" = "% 1 $ @ (% 2 $ @)";
 
 /* Link Text (see TouchIdSettings.customizeText) */

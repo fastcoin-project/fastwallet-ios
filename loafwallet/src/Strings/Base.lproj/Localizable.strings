@@ -859,7 +859,7 @@
 /* Touch Id screen label */
 "TouchIdSettings.label" = "Use your fingerprint to unlock your Litewallet and send money up to a set limit.";
 
-/*  ł100,000 ($100) */
+/*  ƒ100,000 ($100) */
 "TouchIdSettings.limitValue" = "%1$@ (%2$@)";
 
 /* Link Text (see TouchIdSettings.customizeText) */
@@ -1073,7 +1073,7 @@
 "Webview.updating" = "Updating...";
 
 /* Welcome view body text */
-"Welcome.body" = "Litewallet now has a brand new look and some new features.\n\nAll coins are displayed in lites (ł). 1 Litecoin (Ƒ) = 1000 lites (ł).";
+"Welcome.body" = "Litewallet now has a brand new look and some new features.\n\nAll coins are displayed in lites (ƒ). 1 Litecoin (Ƒ) = 1000 lites (ƒ).";
 
 /* Welcome view title */
 "Welcome.title" = "Welcome to Litewallet!";
