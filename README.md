@@ -13,15 +13,15 @@
 | [QR Code](https://blockchair.com/litecoin/address/MVRj1whQ8hqcpffjRxLLCJG1mD27V9YygY) 	| [QR Code](https://blockchair.com/litecoin/address/MDPqwDf9eUErGLcZNt1HN9HqnbFCSCSRme) 	|
 
 
-### The easy and secure Litecoin wallet
+### The easy and secure Fastcoin wallet
 
-Litewallet is the best way to get started with Litecoin. Our simple, streamlined design is easy for beginners, yet powerful enough for experienced users. This is a free app produced by the Fastcoin Project.
+Litewallet is the best way to get started with Fastcoin. Our simple, streamlined design is easy for beginners, yet powerful enough for experienced users. This is a free app produced by the Fastcoin Project.
 
 iOS Users can visit the iOS version of the code here: [Litewallet iOS](https://github.com/litecoin-foundation/loafwallet-ios) 
 
 ### Completely decentralized
 
-Unlike other iOS Litecoin wallets, **Litewallet** is a standalone Litecoin client. It connects directly to the Litecoin network using [SPV](https://en.bitcoin.it/wiki/Thin_Client_Security#Header-Only_Clients) mode, and doesn't rely on servers that can be hacked or disabled. Even if Litewallet is removed from the App Store, the app will continue to function, allowing users to access their valuable Litecoin at any time.
+Unlike other iOS Fastcoin wallets, **Litewallet** is a standalone Fastcoin client. It connects directly to the Fastcoin network using [SPV](https://en.bitcoin.it/wiki/Thin_Client_Security#Header-Only_Clients) mode, and doesn't rely on servers that can be hacked or disabled. Even if Litewallet is removed from the App Store, the app will continue to function, allowing users to access their valuable Fastcoin at any time.
 
 ### Cutting-edge security
 
@@ -67,9 +67,9 @@ Simplicity and ease-of-use is **Litewallet**'s core design principle. A simple r
 ### Building & Developing Litewallet for iOS:
 ***Installation on jailbroken devices is strongly discouraged.***
 
-Any jailbreak app can grant itself access to every other app's keychain data. This means it can access your wallet and steal your Litecoin by self-signing as described [here](http://www.saurik.com/id/8) and including `<key>application-identifier</key><string>*</string>` in its .entitlements file.
+Any jailbreak app can grant itself access to every other app's keychain data. This means it can access your wallet and steal your Fastcoin by self-signing as described [here](http://www.saurik.com/id/8) and including `<key>application-identifier</key><string>*</string>` in its .entitlements file.
 
 ### Litewallet Team:
 * [Development Code of Conduct](/development.md)
 ---
-**Litecoin** source code is available at https://github.com/litecoin-foundation
+**Fastcoin** source code is available at https://github.com/litecoin-foundation

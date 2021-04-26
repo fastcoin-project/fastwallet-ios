@@ -113,8 +113,8 @@
 /* Approve button label */
 "BitID.approve" = "Godkänn";
 
-/* <sitename> is requesting authentication using your Litecoin wallet */
-"BitID.authenticationRequest" = "%1$@ begär autentisering med hjälp av din Litecoin-plånbok";
+/* <sitename> is requesting authentication using your Fastcoin wallet */
+"BitID.authenticationRequest" = "%1$@ begär autentisering med hjälp av din Fastcoin-plånbok";
 
 /* Deny button label */
 "BitID.deny" = "Avslå";
@@ -174,22 +174,22 @@
 "BuyCenter.BitrefillTitle" = "Bitrefill";
 
 /* Changelly buy financial details */
-"BuyCenter.changellyFinancialDetails" = "• Byt Litecoin för andra kryptor \n • Ingen ID krävs \n • Köp via kreditkort \n • Global täckning";
+"BuyCenter.changellyFinancialDetails" = "• Byt Fastcoin för andra kryptor \n • Ingen ID krävs \n • Köp via kreditkort \n • Global täckning";
 
 /* Changelly Title */
 "BuyCenter.changellyTitle" = "Changelly";
 
 /* Buy Modal Title */
-"BuyCenter.ModalTitle" = "Köp Litecoin";
+"BuyCenter.ModalTitle" = "Köp Fastcoin";
 
 /* Simplex buy financial details */
-"BuyCenter.simplexFinancialDetails" = "• Skaffa Litecoin inom 5 minuter! \n • Köp Litecoin via kreditkort \n • Pass eller statligt ID";
+"BuyCenter.simplexFinancialDetails" = "• Skaffa Fastcoin inom 5 minuter! \n • Köp Fastcoin via kreditkort \n • Pass eller statligt ID";
 
 /* Simplex Title */
 "BuyCenter.simplexTitle" = "Simplex";
 
 /* Buy Center Title */
-"BuyCenter.title" = "Köp Litecoin";
+"BuyCenter.title" = "Köp Fastcoin";
 
 /* Camera plugin instruction */
 "CameraPlugin.centerInstruction" = "Centrera ditt ID i boxen";
@@ -245,8 +245,8 @@
 /* No comment provided by engineer. */
 "Copy" = "Kopia";
 
-/* Litecoin denomination picker label */
-"DefaultCurrency.bitcoinLabel" = "Litecoin visningsenhet";
+/* Fastcoin denomination picker label */
+"DefaultCurrency.bitcoinLabel" = "Fastcoin visningsenhet";
 
 /* Label to pick fiat */
 "DefaultCurrency.chooseFiatLabel" = "Välja:";
@@ -339,7 +339,7 @@
 "Import.checking" = "Kontrollerar privat nyckelsaldo...";
 
 /* Sweep private key confirmation message */
-"Import.confirm" = "Skicka %1$@ från denna privata nyckel till din plånbok? Litecoins nätverk tar en avgift på %2$@.";
+"Import.confirm" = "Skicka %1$@ från denna privata nyckel till din plånbok? Fastcoins nätverk tar en avgift på %2$@.";
 
 /* Duplicate key error message */
 "Import.Error.duplicate" = "Denna privata nyckel finns redan i din plånbok.";
@@ -405,10 +405,10 @@
 "JailbreakWarnings.ignore" = "Ignorera";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithBalance" = "ENHETENS SÄKERHET ÄR ÄVENTYRAD\nEn \"intrångs\"-app kan få tillgång till Litewallets nyckeldata och stjäla dina Litecoin! Töm denna plånbok direkt och återupprätta den på en säker enhet.";
+"JailbreakWarnings.messageWithBalance" = "ENHETENS SÄKERHET ÄR ÄVENTYRAD\nEn \"intrångs\"-app kan få tillgång till Litewallets nyckeldata och stjäla dina Fastcoin! Töm denna plånbok direkt och återupprätta den på en säker enhet.";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithoutBalance" = "ENHETENS SÄKERHET ÄR ÄVENTYRAD\nEn \"intrångs\"-app kan få tillgång till Litewallets nyckeldata och stjäla dina Litecoin! Använd Litewallet endast på en säker enhet.";
+"JailbreakWarnings.messageWithoutBalance" = "ENHETENS SÄKERHET ÄR ÄVENTYRAD\nEn \"intrångs\"-app kan få tillgång till Litewallets nyckeldata och stjäla dina Fastcoin! Använd Litewallet endast på en säker enhet.";
 
 /* Jailbreak warning title */
 "JailbreakWarnings.title" = "VARNING";
@@ -437,8 +437,8 @@
 /* Manage wallet modal title */
 "ManageWallet.title" = "Hantera plånbok";
 
-/* Buy Litecoin title */
-"MenuButton.buy" = "Köp Litecoin";
+/* Buy Fastcoin title */
+"MenuButton.buy" = "Köp Fastcoin";
 
 /* Menu button title */
 "MenuButton.lock" = "Lås plånbok";
@@ -489,7 +489,7 @@
 "NodeSelector.statusLabel" = "Nodens anslutningsstatus";
 
 /* Node Selector view title */
-"NodeSelector.title" = "Litecoin-noder";
+"NodeSelector.title" = "Fastcoin-noder";
 
 /* Bad Payment request alert title */
 "PaymentProtocol.Errors.badPaymentRequest" = "Felaktig utbetalningsbegäran";
@@ -507,10 +507,10 @@
 "PaymentProtocol.Errors.smallOutputError" = "Kunde inte göra utbetalning";
 
 /* Amount too small error message */
-"PaymentProtocol.Errors.smallPayment" = "Utbetalning av Litecoin får inte vara lägre än %1$@.";
+"PaymentProtocol.Errors.smallPayment" = "Utbetalning av Fastcoin får inte vara lägre än %1$@.";
 
 /* Output too small error message. */
-"PaymentProtocol.Errors.smallTransaction" = "Utbetalningstransaktioner av Litecoin får inte vara lägre än $@.";
+"PaymentProtocol.Errors.smallTransaction" = "Utbetalningstransaktioner av Fastcoin får inte vara lägre än $@.";
 
 /* Unsupported signature type payment protocol error message */
 "PaymentProtocol.Errors.unsupportedSignatureType" = "signaturtypen saknar stöd";
@@ -647,7 +647,7 @@
 /* No amount entered error message. */
 "RequestAnAmount.noAmount" = "Var god ange ett belopp först.";
 
-/* Request a specific amount of Litecoin */
+/* Request a specific amount of Fastcoin */
 "RequestAnAmount.title" = "Begär ett belopp";
 
 /* Alert action button label */
@@ -663,7 +663,7 @@
 "ReScan.body1" = "20-45 minuter";
 
 /* Syncing explanation */
-"ReScan.body2" = "Om en transaktion visar sig som klar i Litecoins nätverk men inte i Litewallet.";
+"ReScan.body2" = "Om en transaktion visar sig som klar i Fastcoins nätverk men inte i Litewallet.";
 
 /* Syncing explanation */
 "ReScan.body3" = "Du får gång på gång ett meddelande som säger att din transaktion avvisades.";
@@ -689,7 +689,7 @@
 /* Warning Empty Wipe title */
 "resetTitle" = "Återställ tom tom plånbok";
 
-/* Scan Litecoin address camera flash toggle */
+/* Scan Fastcoin address camera flash toggle */
 "Scanner.flashButtonLabel" = "Kamerablixt";
 
 /* Complete filter label */
@@ -711,7 +711,7 @@
 "SecurityCenter.info" = "Aktivera alla säkerhetsfunktioner för maximal säkerhet.";
 
 /* Paper Key button description */
-"SecurityCenter.paperKeyDescription" = "Det enda sättet att komma åt dina Litecoin om du förlorar eller uppgraderar din telefon.";
+"SecurityCenter.paperKeyDescription" = "Det enda sättet att komma åt dina Fastcoin om du förlorar eller uppgraderar din telefon.";
 
 /* Paper Key button title */
 "SecurityCenter.paperKeyTitle" = "Ordnyckel";
@@ -768,10 +768,10 @@
 "Send.insufficientFunds" = "otillräckliga medel";
 
 /* Invalid address alert message */
-"Send.invalidAddressMessage" = "Mottagaradressen är inte en giltig Litecoin-adress.";
+"Send.invalidAddressMessage" = "Mottagaradressen är inte en giltig Fastcoin-adress.";
 
 /* Invalid address on pasteboard message */
-"Send.invalidAddressOnPasteboard" = "Urklipp innehåller inte en giltig Litecoinadress.";
+"Send.invalidAddressOnPasteboard" = "Urklipp innehåller inte en giltig Fastcoinadress.";
 
 /* Invalid address alert title */
 "Send.invalidAddressTitle" = "Ogiltig adress";
@@ -810,7 +810,7 @@
 "Send.toLabel" = "Till";
 
 /* Adress already used alert message - first part */
-"Send.UsedAddress.firstLine" = "Litecoin-adresser är avsedda för engångsanvändning.";
+"Send.UsedAddress.firstLine" = "Fastcoin-adresser är avsedda för engångsanvändning.";
 
 /* Adress already used alert message - second part */
 "Send.UsedAddress.secondLIne" = "Återanvändning minskar sekretessen både för dig och mottagaren och kan sluta i förlust om mottagaren inte direkt kontrollerar adressen.";
@@ -909,7 +909,7 @@
 "StartPaperPhrase.date" = "Senast skrev du ner din ordnyckel på %1$@";
 
 /* Start view message */
-"StartViewController.message" = "Det säkraste och tryggaste sättet att använda Litecoin.";
+"StartViewController.message" = "Det säkraste och tryggaste sättet att använda Fastcoin.";
 
 /* Syncing view connection state header text */
 "SyncingHeader.connecting" = "Ansluter...";
@@ -1092,7 +1092,7 @@
 "TransactionDetails.to" = "till %1$@";
 
 /* Transaction ID header */
-"TransactionDetails.txHashHeader" = "Litecoin transaktions-ID";
+"TransactionDetails.txHashHeader" = "Fastcoin transaktions-ID";
 
 /* (this transaction was) Received at this address: */
 "TransactionDirection.address" = "Togs emot på den här adressen";
@@ -1128,7 +1128,7 @@
 "UnlockScreen.unlocked" = "Plånbok upplåst";
 
 /* Update PIN caption text */
-"UpdatePin.caption" = "Kom ihåg PIN-koden. Om du glömmer den, kommer du inte åt dina Litecoin.";
+"UpdatePin.caption" = "Kom ihåg PIN-koden. Om du glömmer den, kommer du inte åt dina Fastcoin.";
 
 /* PIN creation info. */
 "UpdatePin.createInstruction" = "Din PIN-kod används för att låsa upp ditt Litewallet och skicka pengar";

@@ -113,7 +113,7 @@
 /* Approve button label */
 "BitID.approve" = "Одобрить";
 
-/* <sitename> is requesting authentication using your Litecoin wallet */
+/* <sitename> is requesting authentication using your Fastcoin wallet */
 "BitID.authenticationRequest" = "%1$@ запрашивает аутентификацию, используя ваш биткойн-кошелек";
 
 /* Deny button label */
@@ -174,22 +174,22 @@
 "BuyCenter.BitrefillTitle" = "Bitrefill";
 
 /* Changelly buy financial details */
-"BuyCenter.changellyFinancialDetails" = "• Поменять Litecoin на другие криптографии \n • Идентификатор не требуется \n • Купить с помощью кредитной карты \n • Глобальное покрытие";
+"BuyCenter.changellyFinancialDetails" = "• Поменять Fastcoin на другие криптографии \n • Идентификатор не требуется \n • Купить с помощью кредитной карты \n • Глобальное покрытие";
 
 /* Changelly Title */
 "BuyCenter.changellyTitle" = "Changelly";
 
 /* Buy Modal Title */
-"BuyCenter.ModalTitle" = "Купить Litecoin";
+"BuyCenter.ModalTitle" = "Купить Fastcoin";
 
 /* Simplex buy financial details */
-"BuyCenter.simplexFinancialDetails" = "• Получить Litecoin за 5 минут! \n • Купить Litecoin с помощью кредитной карты \n • Паспорт или удостоверение личности штата";
+"BuyCenter.simplexFinancialDetails" = "• Получить Fastcoin за 5 минут! \n • Купить Fastcoin с помощью кредитной карты \n • Паспорт или удостоверение личности штата";
 
 /* Simplex Title */
 "BuyCenter.simplexTitle" = "Simplex";
 
 /* Buy Center Title */
-"BuyCenter.title" = "Купить Litecoin";
+"BuyCenter.title" = "Купить Fastcoin";
 
 /* Camera plugin instruction */
 "CameraPlugin.centerInstruction" = "Поместите ваш ID-номер в центр данного поля";
@@ -245,7 +245,7 @@
 /* No comment provided by engineer. */
 "Copy" = "копия";
 
-/* Litecoin denomination picker label */
+/* Fastcoin denomination picker label */
 "DefaultCurrency.bitcoinLabel" = "Единица отображения биткойна";
 
 /* Label to pick fiat */
@@ -255,10 +255,10 @@
 "DefaultCurrency.rateLabel" = "Обменный курс";
 
 /* Donate Memo */
-"Donate.memo" = "Пожертвование в фонд Litecoin";
+"Donate.memo" = "Пожертвование в фонд Fastcoin";
 
 /* Donate to the Fastcoin Project */
-"Donate.title" = "Нажмите, чтобы пожертвовать в фонд Litecoin (%@)";
+"Donate.title" = "Нажмите, чтобы пожертвовать в фонд Fastcoin (%@)";
 
 /* Donate Confirmation */
 "Donate.title.confirmation" = "Подтвердите Пожертвование";
@@ -437,8 +437,8 @@
 /* Manage wallet modal title */
 "ManageWallet.title" = "Управление кошельком";
 
-/* Buy Litecoin title */
-"MenuButton.buy" = "Купить Litecoin";
+/* Buy Fastcoin title */
+"MenuButton.buy" = "Купить Fastcoin";
 
 /* Menu button title */
 "MenuButton.lock" = "Заблокировать кошелек";
@@ -647,7 +647,7 @@
 /* No amount entered error message. */
 "RequestAnAmount.noAmount" = "Сначала введите сумму.";
 
-/* Request a specific amount of Litecoin */
+/* Request a specific amount of Fastcoin */
 "RequestAnAmount.title" = "Запросить сумму";
 
 /* Alert action button label */
@@ -689,7 +689,7 @@
 /* Warning Empty Wipe title */
 "resetTitle" = "Сбросить пустой кошелек";
 
-/* Scan Litecoin address camera flash toggle */
+/* Scan Fastcoin address camera flash toggle */
 "Scanner.flashButtonLabel" = "Вспышка камеры";
 
 /* Complete filter label */

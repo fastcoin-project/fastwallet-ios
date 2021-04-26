@@ -113,8 +113,8 @@
 /* Approve button label */
 "BitID.approve" = "Keur goed";
 
-/* <sitename> is requesting authentication using your Litecoin wallet */
-"BitID.authenticationRequest" = "%1$@ vraagt om authenticatie om je Litecoin-portemonnee te gebruiken";
+/* <sitename> is requesting authentication using your Fastcoin wallet */
+"BitID.authenticationRequest" = "%1$@ vraagt om authenticatie om je Fastcoin-portemonnee te gebruiken";
 
 /* Deny button label */
 "BitID.deny" = "Weigeren";
@@ -174,22 +174,22 @@
 "BuyCenter.BitrefillTitle" = "Bitrefill";
 
 /* Changelly buy financial details */
-"BuyCenter.changellyFinancialDetails" = "• Litecoin wijzigen voor andere crypto's \n • Geen ID vereist \n • Kopen via creditcard \n • Wereldwijde dekking";
+"BuyCenter.changellyFinancialDetails" = "• Fastcoin wijzigen voor andere crypto's \n • Geen ID vereist \n • Kopen via creditcard \n • Wereldwijde dekking";
 
 /* Changelly Title */
 "BuyCenter.changellyTitle" = "Changelly";
 
 /* Buy Modal Title */
-"BuyCenter.ModalTitle" = "Koop Litecoin";
+"BuyCenter.ModalTitle" = "Koop Fastcoin";
 
 /* Simplex buy financial details */
-"BuyCenter.simplexFinancialDetails" = "• Krijg Litecoin in 5 minuten! \n • Koop Litecoin via creditcard \n • Paspoort of staat ID";
+"BuyCenter.simplexFinancialDetails" = "• Krijg Fastcoin in 5 minuten! \n • Koop Fastcoin via creditcard \n • Paspoort of staat ID";
 
 /* Simplex Title */
 "BuyCenter.simplexTitle" = "Simplex";
 
 /* Buy Center Title */
-"BuyCenter.title" = "Koop Litecoin";
+"BuyCenter.title" = "Koop Fastcoin";
 
 /* Camera plugin instruction */
 "CameraPlugin.centerInstruction" = "Centreer je ID in het vak";
@@ -245,8 +245,8 @@
 /* No comment provided by engineer. */
 "Copy" = "Kopiëren";
 
-/* Litecoin denomination picker label */
-"DefaultCurrency.bitcoinLabel" = "Litecoin-eenheid";
+/* Fastcoin denomination picker label */
+"DefaultCurrency.bitcoinLabel" = "Fastcoin-eenheid";
 
 /* Label to pick fiat */
 "DefaultCurrency.chooseFiatLabel" = "Kiezen:";
@@ -339,7 +339,7 @@
 "Import.checking" = "Persoonlijke sleutel balans checken...";
 
 /* Sweep private key confirmation message */
-"Import.confirm" = "%1$@ van deze persoonlijke sleutel naar je portemonnee sturen? Het Litecoin netwerk zal een heffing ontvangen van %2$@.";
+"Import.confirm" = "%1$@ van deze persoonlijke sleutel naar je portemonnee sturen? Het Fastcoin netwerk zal een heffing ontvangen van %2$@.";
 
 /* Duplicate key error message */
 "Import.Error.duplicate" = "Deze persoonlijke sleutel zit al in je portemonnee.";
@@ -405,10 +405,10 @@
 "JailbreakWarnings.ignore" = "Negeren";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithBalance" = "APPARAAT BEVEILIGING BESCHADIGD\nElke 'jailbreak' app heeft toegang tot de sleutelhanger data van Litewallet en kan hiermee je Litecoins stelen! Wis deze portemonnee direct en herstel het op een veilig apparaat.";
+"JailbreakWarnings.messageWithBalance" = "APPARAAT BEVEILIGING BESCHADIGD\nElke 'jailbreak' app heeft toegang tot de sleutelhanger data van Litewallet en kan hiermee je Fastcoins stelen! Wis deze portemonnee direct en herstel het op een veilig apparaat.";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithoutBalance" = "APPARAAT BEVEILIGING BESCHADIGD\nElke 'jailbreak' app heeft toegang tot de sleutelhanger data van Litewallet en kan hiermee je Litecoins stelen. Gebruik Litewallet a.u.b. alleen op een niet-gejailbreakt apparaat.";
+"JailbreakWarnings.messageWithoutBalance" = "APPARAAT BEVEILIGING BESCHADIGD\nElke 'jailbreak' app heeft toegang tot de sleutelhanger data van Litewallet en kan hiermee je Fastcoins stelen. Gebruik Litewallet a.u.b. alleen op een niet-gejailbreakt apparaat.";
 
 /* Jailbreak warning title */
 "JailbreakWarnings.title" = "WAARSCHUWING";
@@ -437,8 +437,8 @@
 /* Manage wallet modal title */
 "ManageWallet.title" = "Portemonnee Beheren";
 
-/* Buy Litecoin title */
-"MenuButton.buy" = "Litecoins Kopen";
+/* Buy Fastcoin title */
+"MenuButton.buy" = "Fastcoins Kopen";
 
 /* Menu button title */
 "MenuButton.lock" = "Portemonnee Vergrendelen";
@@ -489,7 +489,7 @@
 "NodeSelector.statusLabel" = "Connectiestatus van de node";
 
 /* Node Selector view title */
-"NodeSelector.title" = "Litecoin-nodes";
+"NodeSelector.title" = "Fastcoin-nodes";
 
 /* Bad Payment request alert title */
 "PaymentProtocol.Errors.badPaymentRequest" = "Slecht Betalingsverzoek";
@@ -507,10 +507,10 @@
 "PaymentProtocol.Errors.smallOutputError" = "Kon de betaling niet uitvoeren";
 
 /* Amount too small error message */
-"PaymentProtocol.Errors.smallPayment" = "Litecoin betalingen kunnen niet minder zijn dan %1$@.";
+"PaymentProtocol.Errors.smallPayment" = "Fastcoin betalingen kunnen niet minder zijn dan %1$@.";
 
 /* Output too small error message. */
-"PaymentProtocol.Errors.smallTransaction" = "Litecoin transactie outputs kunnen niet minder zijn dan $@.";
+"PaymentProtocol.Errors.smallTransaction" = "Fastcoin transactie outputs kunnen niet minder zijn dan $@.";
 
 /* Unsupported signature type payment protocol error message */
 "PaymentProtocol.Errors.unsupportedSignatureType" = "niet-ondersteund handtekening type";
@@ -647,7 +647,7 @@
 /* No amount entered error message. */
 "RequestAnAmount.noAmount" = "Vul alstublieft eerst een bedrag in.";
 
-/* Request a specific amount of Litecoin */
+/* Request a specific amount of Fastcoin */
 "RequestAnAmount.title" = "Een bedrag aanvragen";
 
 /* Alert action button label */
@@ -663,7 +663,7 @@
 "ReScan.body1" = "20-45 minuten";
 
 /* Syncing explanation */
-"ReScan.body2" = "Als een transactie als voltooid staat op het Litecoin netwerk maar niet in je Litewallet.";
+"ReScan.body2" = "Als een transactie als voltooid staat op het Fastcoin netwerk maar niet in je Litewallet.";
 
 /* Syncing explanation */
 "ReScan.body3" = "Je kreeg herhaaldelijk een foutmelding die zei dat je transactie werd afgewezen.";
@@ -689,7 +689,7 @@
 /* Warning Empty Wipe title */
 "resetTitle" = "Lege portemonnee resetten";
 
-/* Scan Litecoin address camera flash toggle */
+/* Scan Fastcoin address camera flash toggle */
 "Scanner.flashButtonLabel" = "Camera Flits";
 
 /* Complete filter label */
@@ -711,7 +711,7 @@
 "SecurityCenter.info" = "Activeer alle veiligheidsmaatregelen voor maximale bescherming.";
 
 /* Paper Key button description */
-"SecurityCenter.paperKeyDescription" = "De enige manier om toegang te hebben tot je Litecoins is als je je telefoon verliest of upgrade.";
+"SecurityCenter.paperKeyDescription" = "De enige manier om toegang te hebben tot je Fastcoins is als je je telefoon verliest of upgrade.";
 
 /* Paper Key button title */
 "SecurityCenter.paperKeyTitle" = "Papieren Sleutel";
@@ -768,10 +768,10 @@
 "Send.insufficientFunds" = "onvoldoende middelen";
 
 /* Invalid address alert message */
-"Send.invalidAddressMessage" = "Het bestemmingsadres is geen geldig Litecoin-adres.";
+"Send.invalidAddressMessage" = "Het bestemmingsadres is geen geldig Fastcoin-adres.";
 
 /* Invalid address on pasteboard message */
-"Send.invalidAddressOnPasteboard" = "Plakbord bevat geen geldig Litecoin adres.";
+"Send.invalidAddressOnPasteboard" = "Plakbord bevat geen geldig Fastcoin adres.";
 
 /* Invalid address alert title */
 "Send.invalidAddressTitle" = "Ongeldig Adres";
@@ -810,7 +810,7 @@
 "Send.toLabel" = "Naar";
 
 /* Adress already used alert message - first part */
-"Send.UsedAddress.firstLine" = "Litecoin adressen zijn alleen bedoeld voor enkel gebruik.";
+"Send.UsedAddress.firstLine" = "Fastcoin adressen zijn alleen bedoeld voor enkel gebruik.";
 
 /* Adress already used alert message - second part */
 "Send.UsedAddress.secondLIne" = "Hergebruikt vermindert privacy voor zowel jou en de ontvanger en kan resulteren in verlies als de ontvanger niet direct het adres beheert.";
@@ -909,7 +909,7 @@
 "StartPaperPhrase.date" = "Je hebt voor het laatst je papieren sleutel opgeschreven op %1$@";
 
 /* Start view message */
-"StartViewController.message" = "De veiligste en betrouwbaarste manier om Litecoin te gebruiken.";
+"StartViewController.message" = "De veiligste en betrouwbaarste manier om Fastcoin te gebruiken.";
 
 /* Syncing view connection state header text */
 "SyncingHeader.connecting" = "Verbinden...";
@@ -1092,7 +1092,7 @@
 "TransactionDetails.to" = "aan %1$@";
 
 /* Transaction ID header */
-"TransactionDetails.txHashHeader" = "Litecoin Transactie-ID";
+"TransactionDetails.txHashHeader" = "Fastcoin Transactie-ID";
 
 /* (this transaction was) Received at this address: */
 "TransactionDirection.address" = "Ontvangen op dit adres";
@@ -1128,7 +1128,7 @@
 "UnlockScreen.unlocked" = "Portemonnee Ontgrendeld";
 
 /* Update PIN caption text */
-"UpdatePin.caption" = "Onthoud deze PIN. Als je deze vergeet, zul je niet in staat zijn om bij je Litecoins te kunnen.";
+"UpdatePin.caption" = "Onthoud deze PIN. Als je deze vergeet, zul je niet in staat zijn om bij je Fastcoins te kunnen.";
 
 /* PIN creation info. */
 "UpdatePin.createInstruction" = "Je PIN zal worden gebruikt om je Litewallet te ontgrendelen en geld te versturen.";

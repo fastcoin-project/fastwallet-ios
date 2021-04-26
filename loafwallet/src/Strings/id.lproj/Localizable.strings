@@ -3,7 +3,7 @@
 "About.blog" = "Situs Web";
 
 /* About screen footer */
-"About.footer" = "Dibuat Oleh LiteWallet Tim \n dari \n Yayasan Litecoin \n %1$@";
+"About.footer" = "Dibuat Oleh LiteWallet Tim \n dari \n Yayasan Fastcoin \n %1$@";
 
 /* Privay Policy button label */
 "About.privacy" = "Aturan Pribadi";
@@ -113,8 +113,8 @@
 /* Approve button label */
 "BitID.approve" = "Menyetujui";
 
-/* <sitename> is requesting authentication using your Litecoin wallet */
-"BitID.authenticationRequest" = "%1$@ meminta otentikasi menggunakan dompet Litecoin Anda";
+/* <sitename> is requesting authentication using your Fastcoin wallet */
+"BitID.authenticationRequest" = "%1$@ meminta otentikasi menggunakan dompet Fastcoin Anda";
 
 /* Deny button label */
 "BitID.deny" = "Menyangkal";
@@ -174,7 +174,7 @@
 "BuyCenter.BitrefillTitle" = "Bitrefill";
 
 /* Changelly buy financial details */
-"BuyCenter.changellyFinancialDetails" = "• Ubah Litecoin untuk cryptos lainnya \n • Tidak diperlukan ID \n • Membeli dengan kartu kredit \n • Pencakupan global";
+"BuyCenter.changellyFinancialDetails" = "• Ubah Fastcoin untuk cryptos lainnya \n • Tidak diperlukan ID \n • Membeli dengan kartu kredit \n • Pencakupan global";
 
 /* Changelly Title */
 "BuyCenter.changellyTitle" = "Changelly";
@@ -183,13 +183,13 @@
 "BuyCenter.ModalTitle" = "Membeli Ƒastcoin";
 
 /* Simplex buy financial details */
-"BuyCenter.simplexFinancialDetails" = "• Gunakan ID atau Paspor \n • Membeli Litecoin dengan kartu kredit \n • Membeli dengan USD atau EUR";
+"BuyCenter.simplexFinancialDetails" = "• Gunakan ID atau Paspor \n • Membeli Fastcoin dengan kartu kredit \n • Membeli dengan USD atau EUR";
 
 /* Simplex Title */
 "BuyCenter.simplexTitle" = "Simplex";
 
 /* Buy Center Title */
-"BuyCenter.title" = "Membeli Litecoin";
+"BuyCenter.title" = "Membeli Fastcoin";
 
 /* Camera plugin instruction */
 "CameraPlugin.centerInstruction" = "Pusatkan ID Anda di dalam Kotak";
@@ -245,8 +245,8 @@
 /* No comment provided by engineer. */
 "Copy" = "Salinan";
 
-/* Litecoin denomination picker label */
-"DefaultCurrency.bitcoinLabel" = "Unit Tampilan Litecoin";
+/* Fastcoin denomination picker label */
+"DefaultCurrency.bitcoinLabel" = "Unit Tampilan Fastcoin";
 
 /* Label to pick fiat */
 "DefaultCurrency.chooseFiatLabel" = "Memilih:";
@@ -255,10 +255,10 @@
 "DefaultCurrency.rateLabel" = "Kurs";
 
 /* Donate Memo */
-"Donate.memo" = "Sumbangan untuk Yayasan Litecoin";
+"Donate.memo" = "Sumbangan untuk Yayasan Fastcoin";
 
 /* Donate to the Fastcoin Project */
-"Donate.title" = "Ketuk untuk Menyumbang ke Yayasan Litecoin (%@)";
+"Donate.title" = "Ketuk untuk Menyumbang ke Yayasan Fastcoin (%@)";
 
 /* Donate Confirmation */
 "Donate.title.confirmation" = "Konfirmasi Sumbangan";
@@ -339,7 +339,7 @@
 "Import.checking" = "Memeriksa saldo kunci pribadi...";
 
 /* Sweep private key confirmation message */
-"Import.confirm" = "Kirim %1$@ dari kunci pribadi ini ke dompet Anda? Jaringan Litecoin akan menerima biaya %2$@.";
+"Import.confirm" = "Kirim %1$@ dari kunci pribadi ini ke dompet Anda? Jaringan Fastcoin akan menerima biaya %2$@.";
 
 /* Duplicate key error message */
 "Import.Error.duplicate" = "Kunci pribadi ini sudah ada di dompet Anda.";
@@ -405,10 +405,10 @@
 "JailbreakWarnings.ignore" = "Mengabaikan";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithBalance" = "KEAMANAN PERANGKAT YANG KOMPROMISASI\n Setiap aplikasi 'jailbreak' dapat mengakses data gantungan kunci Litewallet dan mencuri Litecoin Anda! Segera bersihkan dompet ini dan pulihkan pada perangkat yang aman.";
+"JailbreakWarnings.messageWithBalance" = "KEAMANAN PERANGKAT YANG KOMPROMISASI\n Setiap aplikasi 'jailbreak' dapat mengakses data gantungan kunci Litewallet dan mencuri Fastcoin Anda! Segera bersihkan dompet ini dan pulihkan pada perangkat yang aman.";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithoutBalance" = "PERANGKAT KEAMANAN DI KOMPROMISASI\n Setiap aplikasi 'jailbreak' dapat mengakses data gantungan kunci Litewallet dan mencuri Litecoin Anda. Harap hanya menggunakan Litewallet pada perangkat yang tidak dipenjara.";
+"JailbreakWarnings.messageWithoutBalance" = "PERANGKAT KEAMANAN DI KOMPROMISASI\n Setiap aplikasi 'jailbreak' dapat mengakses data gantungan kunci Litewallet dan mencuri Fastcoin Anda. Harap hanya menggunakan Litewallet pada perangkat yang tidak dipenjara.";
 
 /* Jailbreak warning title */
 "JailbreakWarnings.title" = "Peringatan";
@@ -437,8 +437,8 @@
 /* Manage wallet modal title */
 "ManageWallet.title" = "Mengelola Dompet";
 
-/* Buy Litecoin title */
-"MenuButton.buy" = "Membeli Litecoin";
+/* Buy Fastcoin title */
+"MenuButton.buy" = "Membeli Fastcoin";
 
 /* Menu button title */
 "MenuButton.lock" = "Dompet Kunci";
@@ -489,7 +489,7 @@
 "NodeSelector.statusLabel" = "Status Koneksi Node";
 
 /* Node Selector view title */
-"NodeSelector.title" = "Litecoin Nodes";
+"NodeSelector.title" = "Fastcoin Nodes";
 
 /* Bad Payment request alert title */
 "PaymentProtocol.Errors.badPaymentRequest" = "Permintaan Pembayaran salah";
@@ -507,10 +507,10 @@
 "PaymentProtocol.Errors.smallOutputError" = "Tidak dapat melakukan pembayaran";
 
 /* Amount too small error message */
-"PaymentProtocol.Errors.smallPayment" = "Pembayaran Litecoin tidak boleh kurang dari %1$@.";
+"PaymentProtocol.Errors.smallPayment" = "Pembayaran Fastcoin tidak boleh kurang dari %1$@.";
 
 /* Output too small error message. */
-"PaymentProtocol.Errors.smallTransaction" = "Hasil transaksi Litecoin tidak boleh kurang dari $@.";
+"PaymentProtocol.Errors.smallTransaction" = "Hasil transaksi Fastcoin tidak boleh kurang dari $@.";
 
 /* Unsupported signature type payment protocol error message */
 "PaymentProtocol.Errors.unsupportedSignatureType" = "jenis tanda tangan yang tidak didukung";
@@ -647,7 +647,7 @@
 /* No amount entered error message. */
 "RequestAnAmount.noAmount" = "Silakan masukkan jumlah terlebih dahulu.";
 
-/* Request a specific amount of Litecoin */
+/* Request a specific amount of Fastcoin */
 "RequestAnAmount.title" = "Permintaan Jumlah";
 
 /* Alert action button label */
@@ -663,7 +663,7 @@
 "ReScan.body1" = "20-45 menit";
 
 /* Syncing explanation */
-"ReScan.body2" = "Jika suatu transaksi terlihat selesai di jaringan Litecoin tetapi tidak di Litewallet Anda.";
+"ReScan.body2" = "Jika suatu transaksi terlihat selesai di jaringan Fastcoin tetapi tidak di Litewallet Anda.";
 
 /* Syncing explanation */
 "ReScan.body3" = "Anda berulang kali mendapatkan pesan kesalahan yang mengatakan transaksi Anda ditolak.";
@@ -689,7 +689,7 @@
 /* Warning Empty Wipe title */
 "resetTitle" = "Reset Dompet Kosong";
 
-/* Scan Litecoin address camera flash toggle */
+/* Scan Fastcoin address camera flash toggle */
 "Scanner.flashButtonLabel" = "Flash Kamera";
 
 /* Complete filter label */
@@ -711,7 +711,7 @@
 "SecurityCenter.info" = "Aktifkan semua fitur keamanan untuk perlindungan maksimal.";
 
 /* Paper Key button description */
-"SecurityCenter.paperKeyDescription" = "Satu-satunya cara untuk mengakses Litecoin Anda jika Anda kehilangan atau meningkatkan telepon Anda.";
+"SecurityCenter.paperKeyDescription" = "Satu-satunya cara untuk mengakses Fastcoin Anda jika Anda kehilangan atau meningkatkan telepon Anda.";
 
 /* Paper Key button title */
 "SecurityCenter.paperKeyTitle" = "Kunci Kertas";
@@ -768,10 +768,10 @@
 "Send.insufficientFunds" = "Dana tidak mencukupi";
 
 /* Invalid address alert message */
-"Send.invalidAddressMessage" = "Alamat tujuan bukan alamat Litecoin yang benar.";
+"Send.invalidAddressMessage" = "Alamat tujuan bukan alamat Fastcoin yang benar.";
 
 /* Invalid address on pasteboard message */
-"Send.invalidAddressOnPasteboard" = "Papan tulis tidak mengandung alamat Litecoin yang benar.";
+"Send.invalidAddressOnPasteboard" = "Papan tulis tidak mengandung alamat Fastcoin yang benar.";
 
 /* Invalid address alert title */
 "Send.invalidAddressTitle" = "Alamat tidak benar";
@@ -810,7 +810,7 @@
 "Send.toLabel" = "Untuk";
 
 /* Adress already used alert message - first part */
-"Send.UsedAddress.firstLine" = "Alamat Litecoin hanya ditujukan untuk penggunaan tunggal.";
+"Send.UsedAddress.firstLine" = "Alamat Fastcoin hanya ditujukan untuk penggunaan tunggal.";
 
 /* Adress already used alert message - second part */
 "Send.UsedAddress.secondLIne" = "Penggunaan kembali mengurangi privasi untuk Anda dan penerima dan dapat mengakibatkan kerugian jika penerima tidak secara langsung mengontrol alamat.";
@@ -909,7 +909,7 @@
 "StartPaperPhrase.date" = "Terakhir Anda menuliskan kunci kertas Anda di %1$@";
 
 /* Start view message */
-"StartViewController.message" = "Cara paling aman dan teraman untuk menggunakan Litecoin.";
+"StartViewController.message" = "Cara paling aman dan teraman untuk menggunakan Fastcoin.";
 
 /* Syncing view connection state header text */
 "SyncingHeader.connecting" = "Menghubungkan ...";
@@ -1092,7 +1092,7 @@
 "TransactionDetails.to" = "untuk %1$@";
 
 /* Transaction ID header */
-"TransactionDetails.txHashHeader" = "ID Transaksi Litecoin";
+"TransactionDetails.txHashHeader" = "ID Transaksi Fastcoin";
 
 /* (this transaction was) Received at this address: */
 "TransactionDirection.address" = "Diterima di Alamat ini";
@@ -1128,7 +1128,7 @@
 "UnlockScreen.unlocked" = "Dompet Tidak Terkunci";
 
 /* Update PIN caption text */
-"UpdatePin.caption" = "Ingat PIN ini. Jika Anda lupa, Anda tidak akan dapat mengakses Litecoin Anda.";
+"UpdatePin.caption" = "Ingat PIN ini. Jika Anda lupa, Anda tidak akan dapat mengakses Fastcoin Anda.";
 
 /* PIN creation info. */
 "UpdatePin.createInstruction" = "PIN Anda akan digunakan untuk membuka kunci Litewallet Anda dan mengirim uang.";
@@ -1194,7 +1194,7 @@
 "Webview.updating" = "Memperbarui...";
 
 /* Welcome view body text */
-"Welcome.body" = "Litewallet sekarang memiliki tampilan baru dan beberapa fitur baru.\n\nJika Anda butuh bantuan, cari (?) Di kanan atas sebagian besar layar. Semua koin ditampilkan dalam lites(ƒ). 1 Litecoin (Ƒ) = 1000 lites (ƒ).";
+"Welcome.body" = "Litewallet sekarang memiliki tampilan baru dan beberapa fitur baru.\n\nJika Anda butuh bantuan, cari (?) Di kanan atas sebagian besar layar. Semua koin ditampilkan dalam lites(ƒ). 1 Fastcoin (Ƒ) = 1000 lites (ƒ).";
 
 /* Welcome view title */
 "Welcome.title" = "Selamat datang di Litewallet!";

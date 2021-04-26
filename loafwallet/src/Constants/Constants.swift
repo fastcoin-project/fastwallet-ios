@@ -14,14 +14,14 @@ let kDonationAmountInDouble: Double = Double(kDonationAmount) / Double(100000000
   
 enum LWDonationAddress: String {
     case litwalletHardware = "Litewallet Hardware Fundraiser" //TODO: Remove after fundraiser goal is acheived in 2020
-    case generalLitecoinFoundation = "Fastcoin Project"
+    case generalFastcoinFoundation = "Fastcoin Project"
   
-    static let allValues = [litwalletHardware, generalLitecoinFoundation]
+    static let allValues = [litwalletHardware, generalFastcoinFoundation]
 
       var address: String {
           switch self {
           case .litwalletHardware:          return "MVRj1whQ8hqcpffjRxLLCJG1mD27V9YygY"
-          case .generalLitecoinFoundation:  return "MDPqwDf9eUErGLcZNt1HN9HqnbFCSCSRme"
+          case .generalFastcoinFoundation:  return "MDPqwDf9eUErGLcZNt1HN9HqnbFCSCSRme"
           }
       }
 }

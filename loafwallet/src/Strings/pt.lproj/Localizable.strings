@@ -114,8 +114,8 @@
 /* Approve button label */
 "BitID.approve" = "Aprovar";
 
-/* <sitename> is requesting authentication using your Litecoin wallet */
-"BitID.authenticationRequest" = "%1$@ está a solicitar autenticação utilizando a sua carteira de Litecoin";
+/* <sitename> is requesting authentication using your Fastcoin wallet */
+"BitID.authenticationRequest" = "%1$@ está a solicitar autenticação utilizando a sua carteira de Fastcoin";
 
 /* Deny button label */
 "BitID.deny" = "Recusar";
@@ -175,7 +175,7 @@
 "BuyCenter.BitrefillTitle" = "Bitrefill";
 
 /* Changelly buy financial details */
-"BuyCenter.changellyFinancialDetails" = "• Troque Litecoin por outras criptas \n • Não é necessário ID \n • Compre via cartão de crédito \n • Cobertura global";
+"BuyCenter.changellyFinancialDetails" = "• Troque Fastcoin por outras criptas \n • Não é necessário ID \n • Compre via cartão de crédito \n • Cobertura global";
 
 /* Changelly Title */
 "BuyCenter.changellyTitle" = "Changelly";
@@ -184,7 +184,7 @@
 "BuyCenter.ModalTitle" = "Comprar Ƒastcoin";
 
 /* Simplex buy financial details */
-"BuyCenter.simplexFinancialDetails" = "• Obtenha Litecoin em 5 minutos! \n • Compre Litecoin via cartão de crédito \n • Passaporte ou ID do estado";
+"BuyCenter.simplexFinancialDetails" = "• Obtenha Fastcoin em 5 minutos! \n • Compre Fastcoin via cartão de crédito \n • Passaporte ou ID do estado";
 
 /* Simplex Title */
 "BuyCenter.simplexTitle" = "Simplex";
@@ -246,8 +246,8 @@
 /* No comment provided by engineer. */
 "Copy" = "Copy";
 
-/* Litecoin denomination picker label */
-"DefaultCurrency.bitcoinLabel" = "Moeda de apresentação da Litecoin";
+/* Fastcoin denomination picker label */
+"DefaultCurrency.bitcoinLabel" = "Moeda de apresentação da Fastcoin";
 
 /* Label to pick fiat */
 "DefaultCurrency.chooseFiatLabel" = "Escolher:";
@@ -340,7 +340,7 @@
 "Import.checking" = "A verificar o saldo da chave privada...";
 
 /* Sweep private key confirmation message */
-"Import.confirm" = "Enviar %1$@ desta chave privada para a sua carteira? A rede Litecoin receberá uma taxa de %2$@.";
+"Import.confirm" = "Enviar %1$@ desta chave privada para a sua carteira? A rede Fastcoin receberá uma taxa de %2$@.";
 
 /* Duplicate key error message */
 "Import.Error.duplicate" = "Esta chave privada já está na sua carteira.";
@@ -406,10 +406,10 @@
 "JailbreakWarnings.ignore" = "Ignorar";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithBalance" = "SEGURANÇA DO DISPOSITIVO COMPROMETIDA\n Qualquer aplicação com \"jailbreak\" consegue aceder aos seus dados de porta-chaves e roubar as suas Litecoins! Apague esta carteira imediatamente e restaure-a num dispositivo seguro.";
+"JailbreakWarnings.messageWithBalance" = "SEGURANÇA DO DISPOSITIVO COMPROMETIDA\n Qualquer aplicação com \"jailbreak\" consegue aceder aos seus dados de porta-chaves e roubar as suas Fastcoins! Apague esta carteira imediatamente e restaure-a num dispositivo seguro.";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithoutBalance" = "SEGURANÇA DO DISPOSITIVO COMPROMETIDA\n Qualquer aplicação com \"jailbreak\" consegue aceder aos seus dados de porta-chaves da Litewallet e roubar as suas Litecoins. Por favor, use a Litewallet somente num dispositivo não desbloqueado.";
+"JailbreakWarnings.messageWithoutBalance" = "SEGURANÇA DO DISPOSITIVO COMPROMETIDA\n Qualquer aplicação com \"jailbreak\" consegue aceder aos seus dados de porta-chaves da Litewallet e roubar as suas Fastcoins. Por favor, use a Litewallet somente num dispositivo não desbloqueado.";
 
 /* Jailbreak warning title */
 "JailbreakWarnings.title" = "AVISO";
@@ -438,8 +438,8 @@
 /* Manage wallet modal title */
 "ManageWallet.title" = "Gerir Carteira";
 
-/* Buy Litecoin title */
-"MenuButton.buy" = "Comprar Litecoins";
+/* Buy Fastcoin title */
+"MenuButton.buy" = "Comprar Fastcoins";
 
 /* Menu button title */
 "MenuButton.lock" = "Bloquear Carteira";
@@ -490,7 +490,7 @@
 "NodeSelector.statusLabel" = "Estado da ligação do nó";
 
 /* Node Selector view title */
-"NodeSelector.title" = "Nós de Litecoin";
+"NodeSelector.title" = "Nós de Fastcoin";
 
 /* Bad Payment request alert title */
 "PaymentProtocol.Errors.badPaymentRequest" = "Pedido de Pagamento Inválido";
@@ -508,10 +508,10 @@
 "PaymentProtocol.Errors.smallOutputError" = "Não foi possível fazer o pagamento";
 
 /* Amount too small error message */
-"PaymentProtocol.Errors.smallPayment" = "Os pagamentos em Litecoin não podem ser inferiores a %1$@.";
+"PaymentProtocol.Errors.smallPayment" = "Os pagamentos em Fastcoin não podem ser inferiores a %1$@.";
 
 /* Output too small error message. */
-"PaymentProtocol.Errors.smallTransaction" = "As saídas de transações em Litecoin não podem ser inferiores a $@.";
+"PaymentProtocol.Errors.smallTransaction" = "As saídas de transações em Fastcoin não podem ser inferiores a $@.";
 
 /* Unsupported signature type payment protocol error message */
 "PaymentProtocol.Errors.unsupportedSignatureType" = "tipo de assinatura não suportado";
@@ -648,7 +648,7 @@
 /* No amount entered error message. */
 "RequestAnAmount.noAmount" = "Primeiro, por favor, introduza um montante.";
 
-/* Request a specific amount of Litecoin */
+/* Request a specific amount of Fastcoin */
 "RequestAnAmount.title" = "Pedir uma Quantia";
 
 /* Alert action button label */
@@ -664,7 +664,7 @@
 "ReScan.body1" = "20-45 minutos";
 
 /* Syncing explanation */
-"ReScan.body2" = "Se uma transação aparece como concluída na sua rede Litecoin mas não na sua Litewallet.";
+"ReScan.body2" = "Se uma transação aparece como concluída na sua rede Fastcoin mas não na sua Litewallet.";
 
 /* Syncing explanation */
 "ReScan.body3" = "Recebe repetidamente uma mensagem de erro dizendo que a sua transação foi rejeitada.";
@@ -690,7 +690,7 @@
 /* Warning Empty Wipe title */
 "resetTitle" = "Redefinição de carteira vazia";
 
-/* Scan Litecoin address camera flash toggle */
+/* Scan Fastcoin address camera flash toggle */
 "Scanner.flashButtonLabel" = "Flash da Câmara";
 
 /* Complete filter label */
@@ -712,7 +712,7 @@
 "SecurityCenter.info" = "Ativar todos os recursos de segurança para máxima proteção.";
 
 /* Paper Key button description */
-"SecurityCenter.paperKeyDescription" = "A única forma de aceder às suas Litecoins se perder ou atualizar o seu telefone.";
+"SecurityCenter.paperKeyDescription" = "A única forma de aceder às suas Fastcoins se perder ou atualizar o seu telefone.";
 
 /* Paper Key button title */
 "SecurityCenter.paperKeyTitle" = "Chave de Papel";
@@ -769,10 +769,10 @@
 "Send.insufficientFunds" = "fundos insuficientes";
 
 /* Invalid address alert message */
-"Send.invalidAddressMessage" = "O endereço de destino não é um endereço de Litecoin válido.";
+"Send.invalidAddressMessage" = "O endereço de destino não é um endereço de Fastcoin válido.";
 
 /* Invalid address on pasteboard message */
-"Send.invalidAddressOnPasteboard" = "A área de transferência não possui nenhum endereço de Litecoin válido.";
+"Send.invalidAddressOnPasteboard" = "A área de transferência não possui nenhum endereço de Fastcoin válido.";
 
 /* Invalid address alert title */
 "Send.invalidAddressTitle" = "Endereço Inválido";
@@ -811,7 +811,7 @@
 "Send.toLabel" = "Para";
 
 /* Adress already used alert message - first part */
-"Send.UsedAddress.firstLine" = "Os endereços de Litecoin destinam-se apenas a uma única utilização.";
+"Send.UsedAddress.firstLine" = "Os endereços de Fastcoin destinam-se apenas a uma única utilização.";
 
 /* Adress already used alert message - second part */
 "Send.UsedAddress.secondLIne" = "A reutilização reduz a sua privacidade e a do destinatário e pode resultar em perdas se o destinatário não controlar diretamente o endereço.";
@@ -910,7 +910,7 @@
 "StartPaperPhrase.date" = "A última vez que escreveu a sua chave de papel foi em %1$@";
 
 /* Start view message */
-"StartViewController.message" = "A forma mais protegida e segura de utilizar a Litecoin.";
+"StartViewController.message" = "A forma mais protegida e segura de utilizar a Fastcoin.";
 
 /* Syncing view connection state header text */
 "SyncingHeader.connecting" = "Connecting...";
@@ -1093,7 +1093,7 @@
 "TransactionDetails.to" = "para %1$@";
 
 /* Transaction ID header */
-"TransactionDetails.txHashHeader" = "ID da Transação de Litecoin";
+"TransactionDetails.txHashHeader" = "ID da Transação de Fastcoin";
 
 /* (this transaction was) Received at this address: */
 "TransactionDirection.address" = "Recebida neste endereço";
@@ -1129,7 +1129,7 @@
 "UnlockScreen.unlocked" = "Carteira Desbloqueada";
 
 /* Update PIN caption text */
-"UpdatePin.caption" = "Lembre-se deste PIN. Se o esquecer, não será capaz de aceder às suas Litecoins.";
+"UpdatePin.caption" = "Lembre-se deste PIN. Se o esquecer, não será capaz de aceder às suas Fastcoins.";
 
 /* PIN creation info. */
 "UpdatePin.createInstruction" = "O seu PIN será usado para desbloquear a sua Litewallet e para enviar dinheiro.";

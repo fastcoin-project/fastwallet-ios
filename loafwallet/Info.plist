@@ -12,7 +12,7 @@
 			<key>CFBundleTypeIconFiles</key>
 			<array/>
 			<key>CFBundleTypeName</key>
-			<string>Litecoin Payment Request</string>
+			<string>Fastcoin Payment Request</string>
 			<key>LSHandlerRank</key>
 			<string>Owner</string>
 			<key>LSItemContentTypes</key>
@@ -24,7 +24,7 @@
 			<key>CFBundleTypeIconFiles</key>
 			<array/>
 			<key>CFBundleTypeName</key>
-			<string>Litecoin Payment</string>
+			<string>Fastcoin Payment</string>
 			<key>LSHandlerRank</key>
 			<string>Owner</string>
 			<key>LSItemContentTypes</key>
@@ -36,7 +36,7 @@
 			<key>CFBundleTypeIconFiles</key>
 			<array/>
 			<key>CFBundleTypeName</key>
-			<string>Litecoin Payment ACK</string>
+			<string>Fastcoin Payment ACK</string>
 			<key>LSHandlerRank</key>
 			<string>Owner</string>
 			<key>LSItemContentTypes</key>
@@ -165,7 +165,7 @@
 				<string>public.data</string>
 			</array>
 			<key>UTTypeDescription</key>
-			<string>Litecoin Payment Request</string>
+			<string>Fastcoin Payment Request</string>
 			<key>UTTypeIdentifier</key>
 			<string>litecoin.paymentrequest</string>
 			<key>UTTypeTagSpecification</key>
@@ -180,7 +180,7 @@
 				<string>public.data</string>
 			</array>
 			<key>UTTypeDescription</key>
-			<string>Litecoin Payment</string>
+			<string>Fastcoin Payment</string>
 			<key>UTTypeIdentifier</key>
 			<string>litecoin.payment</string>
 			<key>UTTypeTagSpecification</key>
@@ -195,7 +195,7 @@
 				<string>public.data</string>
 			</array>
 			<key>UTTypeDescription</key>
-			<string>Litecoin Payment ACK</string>
+			<string>Fastcoin Payment ACK</string>
 			<key>UTTypeIdentifier</key>
 			<string>litecoin.paymentack</string>
 			<key>UTTypeTagSpecification</key>

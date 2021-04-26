@@ -41,7 +41,7 @@ class TransactionTableViewCellv2 : UITableViewCell, Subscriber {
     @IBOutlet weak var expandCardView: UIView!
     @IBOutlet weak var qrBackgroundView: UIView!
     
-    var didReceiveLitecoin: Bool?
+    var didReceiveFastcoin: Bool?
     var showQRModalAction: (() -> ())? 
     var expandCell: (() -> Bool)?
     var isExpanded: Bool = false

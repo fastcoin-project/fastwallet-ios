@@ -113,8 +113,8 @@
 /* Approve button label */
 "BitID.approve" = "승인";
 
-/* <sitename> is requesting authentication using your Litecoin wallet */
-"BitID.authenticationRequest" = "%1$@(이)가 귀하의 Litecoin 월렛 이용에 대한 인증을 요청하고 있습니다.";
+/* <sitename> is requesting authentication using your Fastcoin wallet */
+"BitID.authenticationRequest" = "%1$@(이)가 귀하의 Fastcoin 월렛 이용에 대한 인증을 요청하고 있습니다.";
 
 /* Deny button label */
 "BitID.deny" = "거부";
@@ -174,7 +174,7 @@
 "BuyCenter.BitrefillTitle" = "비트 리필";
 
 /* Changelly buy financial details */
-"BuyCenter.changellyFinancialDetails" = "다른 암호화를 위해 Litecoin 변경 \n • ID 불필요 \n • 신용 카드로 구매 \ n • 글로벌 범위";
+"BuyCenter.changellyFinancialDetails" = "다른 암호화를 위해 Fastcoin 변경 \n • ID 불필요 \n • 신용 카드로 구매 \ n • 글로벌 범위";
 
 /* Changelly Title */
 "BuyCenter.changellyTitle" = "체인지";
@@ -183,13 +183,13 @@
 "BuyCenter.ModalTitle" = "Ƒastcoin 구매";
 
 /* Simplex buy financial details */
-"BuyCenter.simplexFinancialDetails" = "5 분 안에 Litecoin을 받으십시오! \n • 신용 카드를 통해 Litecoin을 구매하십시오 \n • 여권 또는 주 ID";
+"BuyCenter.simplexFinancialDetails" = "5 분 안에 Fastcoin을 받으십시오! \n • 신용 카드를 통해 Fastcoin을 구매하십시오 \n • 여권 또는 주 ID";
 
 /* Simplex Title */
 "BuyCenter.simplexTitle" = "심플 렉스";
 
 /* Buy Center Title */
-"BuyCenter.title" = "Litecoin 구매";
+"BuyCenter.title" = "Fastcoin 구매";
 
 /* Camera plugin instruction */
 "CameraPlugin.centerInstruction" = "박스안에 귀하의 ID를 중앙에 두세요";
@@ -245,8 +245,8 @@
 /* No comment provided by engineer. */
 "Copy" = "부";
 
-/* Litecoin denomination picker label */
-"DefaultCurrency.bitcoinLabel" = "Litecoin Display Unit";
+/* Fastcoin denomination picker label */
+"DefaultCurrency.bitcoinLabel" = "Fastcoin Display Unit";
 
 /* Label to pick fiat */
 "DefaultCurrency.chooseFiatLabel" = "고르다:";
@@ -339,7 +339,7 @@
 "Import.checking" = "개인 열쇠 잔고 확인 중...";
 
 /* Sweep private key confirmation message */
-"Import.confirm" = "이 개인 열쇠로부터 귀하의 지갑으로 %1$@ 를 보낼까요? Litecoin 네트워크가 %2$@의 수수료를 받게 됩니다.";
+"Import.confirm" = "이 개인 열쇠로부터 귀하의 지갑으로 %1$@ 를 보낼까요? Fastcoin 네트워크가 %2$@의 수수료를 받게 됩니다.";
 
 /* Duplicate key error message */
 "Import.Error.duplicate" = "이 개인 열쇠가 이미 귀하의 지갑에 있습니다.";
@@ -405,10 +405,10 @@
 "JailbreakWarnings.ignore" = "무시";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithBalance" = "장치 보안 취약\n모든 'jailbreak' 앱이 Litewallet의 키체인 데이터에 접속하여 귀하의 Litecoin을 훔칠 수 있습니다! 이 지갑을 바로 지우시고 안전한 장치에서 복구하세요.";
+"JailbreakWarnings.messageWithBalance" = "장치 보안 취약\n모든 'jailbreak' 앱이 Litewallet의 키체인 데이터에 접속하여 귀하의 Fastcoin을 훔칠 수 있습니다! 이 지갑을 바로 지우시고 안전한 장치에서 복구하세요.";
 
 /* Jailbreak warning message */
-"JailbreakWarnings.messageWithoutBalance" = "장치 보안 취약\n모든 'jailbreak' 앱이 Litewallet의 키체인 데이터에 접속하여 귀하의 Litecoin을 훔칠 수 있습니다! Litewallet를 비-jailbroken 장치에서만 사용해 주세요.";
+"JailbreakWarnings.messageWithoutBalance" = "장치 보안 취약\n모든 'jailbreak' 앱이 Litewallet의 키체인 데이터에 접속하여 귀하의 Fastcoin을 훔칠 수 있습니다! Litewallet를 비-jailbroken 장치에서만 사용해 주세요.";
 
 /* Jailbreak warning title */
 "JailbreakWarnings.title" = "경고";
@@ -437,8 +437,8 @@
 /* Manage wallet modal title */
 "ManageWallet.title" = "지갑 관리";
 
-/* Buy Litecoin title */
-"MenuButton.buy" = "Litecoin 구매";
+/* Buy Fastcoin title */
+"MenuButton.buy" = "Fastcoin 구매";
 
 /* Menu button title */
 "MenuButton.lock" = "지갑 잠그기";
@@ -489,7 +489,7 @@
 "NodeSelector.statusLabel" = "노드 연결 상태";
 
 /* Node Selector view title */
-"NodeSelector.title" = "Litecoin 노드";
+"NodeSelector.title" = "Fastcoin 노드";
 
 /* Bad Payment request alert title */
 "PaymentProtocol.Errors.badPaymentRequest" = "틀린 결제 요청";
@@ -507,10 +507,10 @@
 "PaymentProtocol.Errors.smallOutputError" = "결제를 할 수 없습니다";
 
 /* Amount too small error message */
-"PaymentProtocol.Errors.smallPayment" = "Litecoin 결제는 %1$@ 보다 작을 수 없습니다.";
+"PaymentProtocol.Errors.smallPayment" = "Fastcoin 결제는 %1$@ 보다 작을 수 없습니다.";
 
 /* Output too small error message. */
-"PaymentProtocol.Errors.smallTransaction" = "Litecoin 거래 출력들은 $@보다 작을 수 없습니다.";
+"PaymentProtocol.Errors.smallTransaction" = "Fastcoin 거래 출력들은 $@보다 작을 수 없습니다.";
 
 /* Unsupported signature type payment protocol error message */
 "PaymentProtocol.Errors.unsupportedSignatureType" = "지원되지 않는 서명 형태";
@@ -647,7 +647,7 @@
 /* No amount entered error message. */
 "RequestAnAmount.noAmount" = "먼저 금액을 입력해 주세요.";
 
-/* Request a specific amount of Litecoin */
+/* Request a specific amount of Fastcoin */
 "RequestAnAmount.title" = "금액 요청";
 
 /* Alert action button label */
@@ -663,7 +663,7 @@
 "ReScan.body1" = "20-45분";
 
 /* Syncing explanation */
-"ReScan.body2" = "거래가 Litecoin 네트워크에는 완료된 것으로 표시되지만, 브레드에는 표시되지 않는 경우.";
+"ReScan.body2" = "거래가 Fastcoin 네트워크에는 완료된 것으로 표시되지만, 브레드에는 표시되지 않는 경우.";
 
 /* Syncing explanation */
 "ReScan.body3" = "거래가 거절되었음을 알리는 오류 메시지가 반복적으로 나타납니다.";
@@ -689,7 +689,7 @@
 /* Warning Empty Wipe title */
 "resetTitle" = "빈 지갑 재설정";
 
-/* Scan Litecoin address camera flash toggle */
+/* Scan Fastcoin address camera flash toggle */
 "Scanner.flashButtonLabel" = "카메라 플래시";
 
 /* Complete filter label */
@@ -711,7 +711,7 @@
 "SecurityCenter.info" = "최대한의 보호를 위해 모든 보안 기능을 사용하시기 바랍니다.";
 
 /* Paper Key button description */
-"SecurityCenter.paperKeyDescription" = "전화를 분실하거나 업그레이드하는 경우, Litecoin에 액세스할 수 있는 유일한 방법입니다.";
+"SecurityCenter.paperKeyDescription" = "전화를 분실하거나 업그레이드하는 경우, Fastcoin에 액세스할 수 있는 유일한 방법입니다.";
 
 /* Paper Key button title */
 "SecurityCenter.paperKeyTitle" = "페이퍼 키";
@@ -768,10 +768,10 @@
 "Send.insufficientFunds" = "부족한 자금";
 
 /* Invalid address alert message */
-"Send.invalidAddressMessage" = "해당 수취인 주소는 Litecoin에서 유효하지 않은 주소입니다.";
+"Send.invalidAddressMessage" = "해당 수취인 주소는 Fastcoin에서 유효하지 않은 주소입니다.";
 
 /* Invalid address on pasteboard message */
-"Send.invalidAddressOnPasteboard" = "클립보드가 유효한 Litecoin 주소를 가지고 있지 않습니다";
+"Send.invalidAddressOnPasteboard" = "클립보드가 유효한 Fastcoin 주소를 가지고 있지 않습니다";
 
 /* Invalid address alert title */
 "Send.invalidAddressTitle" = "유효하지 않은 주소입니다";
@@ -810,7 +810,7 @@
 "Send.toLabel" = "수취인";
 
 /* Adress already used alert message - first part */
-"Send.UsedAddress.firstLine" = "Litecoin 주소는 일회용입니다.";
+"Send.UsedAddress.firstLine" = "Fastcoin 주소는 일회용입니다.";
 
 /* Adress already used alert message - second part */
 "Send.UsedAddress.secondLIne" = "주소를 재사용할 경우 귀하와 받는 사람 모두의 개인 정보 보호가 약해지며, 받는 사람이 직접 주소를 관리하지 않을 경우 분실을 초래할 수 있습니다.";
@@ -909,7 +909,7 @@
 "StartPaperPhrase.date" = "%1$@에 마지막으로 페이퍼 키를 작성하셨습니다.";
 
 /* Start view message */
-"StartViewController.message" = "Litecoin을 사용하는 가장 안정되고 안전한 방법.";
+"StartViewController.message" = "Fastcoin을 사용하는 가장 안정되고 안전한 방법.";
 
 /* Syncing view connection state header text */
 "SyncingHeader.connecting" = "연결 중 ...";
@@ -1092,7 +1092,7 @@
 "TransactionDetails.to" = "%1$@에게";
 
 /* Transaction ID header */
-"TransactionDetails.txHashHeader" = "Litecoin Transaction ID";
+"TransactionDetails.txHashHeader" = "Fastcoin Transaction ID";
 
 /* (this transaction was) Received at this address: */
 "TransactionDirection.address" = "이 주소에서 받음";
@@ -1128,7 +1128,7 @@
 "UnlockScreen.unlocked" = "월렛의 잠금이 해제됨";
 
 /* Update PIN caption text */
-"UpdatePin.caption" = "이 PIN 코드를 기억하세요. PIN 코드를 잊어버리면 자신의 Litecoin을 사용할 수 없게 됩니다.";
+"UpdatePin.caption" = "이 PIN 코드를 기억하세요. PIN 코드를 잊어버리면 자신의 Fastcoin을 사용할 수 없게 됩니다.";
 
 /* PIN creation info. */
 "UpdatePin.createInstruction" = "귀하의 PIN 코드는 Litewallet의 잠금을 해제하고 돈을 송금하는 데 사용됩니다.";

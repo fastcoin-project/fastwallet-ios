@@ -113,7 +113,7 @@
 /* Approve button label */
 "BitID.approve" = "批准";
 
-/* <sitename> is requesting authentication using your Litecoin wallet */
+/* <sitename> is requesting authentication using your Fastcoin wallet */
 "BitID.authenticationRequest" = "%1$@ 正使用您的莱特币钱包请求验证";
 
 /* Deny button label */
@@ -174,7 +174,7 @@
 "BuyCenter.BitrefillTitle" = "Bitrefill";
 
 /* Changelly buy financial details */
-"BuyCenter.changellyFinancialDetails" = "•将Litecoin更改为其他加密货币 \n •无需ID \n •通过信用卡购买 \n •全球覆盖";
+"BuyCenter.changellyFinancialDetails" = "•将Fastcoin更改为其他加密货币 \n •无需ID \n •通过信用卡购买 \n •全球覆盖";
 
 /* Changelly Title */
 "BuyCenter.changellyTitle" = "Changelly";
@@ -183,7 +183,7 @@
 "BuyCenter.ModalTitle" = "购买 Ƒastcoin";
 
 /* Simplex buy financial details */
-"BuyCenter.simplexFinancialDetails" = "• 5分钟内获得Litecoin！\n •通过信用卡购买Litecoin \n •护照或州ID";
+"BuyCenter.simplexFinancialDetails" = "• 5分钟内获得Fastcoin！\n •通过信用卡购买Fastcoin \n •护照或州ID";
 
 /* Simplex Title */
 "BuyCenter.simplexTitle" = "Simplex";
@@ -245,7 +245,7 @@
 /* No comment provided by engineer. */
 "Copy" = "复制";
 
-/* Litecoin denomination picker label */
+/* Fastcoin denomination picker label */
 "DefaultCurrency.bitcoinLabel" = "莱特币显示单位";
 
 /* Label to pick fiat */
@@ -437,7 +437,7 @@
 /* Manage wallet modal title */
 "ManageWallet.title" = "管理钱包";
 
-/* Buy Litecoin title */
+/* Buy Fastcoin title */
 "MenuButton.buy" = "购买莱特币";
 
 /* Menu button title */
@@ -647,7 +647,7 @@
 /* No amount entered error message. */
 "RequestAnAmount.noAmount" = "请先输入金额。";
 
-/* Request a specific amount of Litecoin */
+/* Request a specific amount of Fastcoin */
 "RequestAnAmount.title" = "申请金额";
 
 /* Alert action button label */
@@ -689,7 +689,7 @@
 /* Warning Empty Wipe title */
 "resetTitle" = "空钱包重置";
 
-/* Scan Litecoin address camera flash toggle */
+/* Scan Fastcoin address camera flash toggle */
 "Scanner.flashButtonLabel" = "相机闪光灯";
 
 /* Complete filter label */

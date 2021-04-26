@@ -113,7 +113,7 @@
 /* Approve button label */
 "BitID.approve" = "承認する";
 
-/* <sitename> is requesting authentication using your Litecoin wallet */
+/* <sitename> is requesting authentication using your Fastcoin wallet */
 "BitID.authenticationRequest" = "%1$@がリテコインウォレットを使っての認証を求めています";
 
 /* Deny button label */
@@ -174,22 +174,22 @@
 "BuyCenter.BitrefillTitle" = "ビットリフィル";
 
 /* Changelly buy financial details */
-"BuyCenter.changellyFinancialDetails" = "•他の暗号のLitecoinを変更  \n•IDは不要\n•クレジットカードで購入 \n•グローバルな補償範囲";
+"BuyCenter.changellyFinancialDetails" = "•他の暗号のFastcoinを変更  \n•IDは不要\n•クレジットカードで購入 \n•グローバルな補償範囲";
 
 /* Changelly Title */
 "BuyCenter.changellyTitle" = "Changelly";
 
 /* Buy Modal Title */
-"BuyCenter.ModalTitle" = "Litecoin を購入する";
+"BuyCenter.ModalTitle" = "Fastcoin を購入する";
 
 /* Simplex buy financial details */
-"BuyCenter.simplexFinancialDetails" = "•5分でLitecoinを入手！\n •クレジットカードでLitecoinを購入 \n•パスポートまたは州ID";
+"BuyCenter.simplexFinancialDetails" = "•5分でFastcoinを入手！\n •クレジットカードでFastcoinを購入 \n•パスポートまたは州ID";
 
 /* Simplex Title */
 "BuyCenter.simplexTitle" = "シンプレックス";
 
 /* Buy Center Title */
-"BuyCenter.title" = "Litecoin を購入する";
+"BuyCenter.title" = "Fastcoin を購入する";
 
 /* Camera plugin instruction */
 "CameraPlugin.centerInstruction" = "ご自身のIDをこのボックス内で中央に配置してください";
@@ -245,7 +245,7 @@
 /* No comment provided by engineer. */
 "Copy" = "コピー";
 
-/* Litecoin denomination picker label */
+/* Fastcoin denomination picker label */
 "DefaultCurrency.bitcoinLabel" = "リテコインの表示単位";
 
 /* Label to pick fiat */
@@ -437,7 +437,7 @@
 /* Manage wallet modal title */
 "ManageWallet.title" = "ウォレットを管理";
 
-/* Buy Litecoin title */
+/* Buy Fastcoin title */
 "MenuButton.buy" = "リテコインを購入";
 
 /* Menu button title */
@@ -647,7 +647,7 @@
 /* No amount entered error message. */
 "RequestAnAmount.noAmount" = "初めに数量を入力してください。";
 
-/* Request a specific amount of Litecoin */
+/* Request a specific amount of Fastcoin */
 "RequestAnAmount.title" = "金額のリクエスト";
 
 /* Alert action button label */

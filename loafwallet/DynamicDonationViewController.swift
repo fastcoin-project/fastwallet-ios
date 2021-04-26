@@ -39,7 +39,7 @@ class DynamicDonationViewController: UIViewController, Subscriber {
     
     
     var cancelButton = ShadowButton(title: S.Button.cancel, type: .secondary)
-    var donateButton = ShadowButton(title: S.Donate.word, type: .flatLitecoinBlue, image: (LAContext.biometricType() == .face ? #imageLiteral(resourceName: "FaceId") : #imageLiteral(resourceName: "TouchId")))
+    var donateButton = ShadowButton(title: S.Donate.word, type: .flatFastcoinBlue, image: (LAContext.biometricType() == .face ? #imageLiteral(resourceName: "FaceId") : #imageLiteral(resourceName: "TouchId")))
 
     var successCallback: (() -> Void)?
     var cancelCallback: (() -> Void)?

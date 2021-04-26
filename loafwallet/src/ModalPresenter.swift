@@ -473,7 +473,7 @@ class ModalPresenter : Subscriber, Trackable {
                     guard let walletManager = myself.walletManager else { return }
                     let sections = ["Network"]
                     var networkRows = [Setting]()
-                    networkRows = [Setting(title: "Litecoin Nodes", callback: {
+                    networkRows = [Setting(title: "Fastcoin Nodes", callback: {
                         let nodeSelector = NodeSelectorViewController(walletManager: walletManager)
                         settingsNav.pushViewController(nodeSelector, animated: true)
                     })]

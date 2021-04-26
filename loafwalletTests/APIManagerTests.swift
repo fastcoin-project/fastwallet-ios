@@ -31,7 +31,7 @@ class APIManagerTests: XCTestCase {
     }
     
     
-    func testFetchLitecoinRateData() {
+    func testFetchFastcoinRateData() {
         
     }
      
