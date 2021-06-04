@@ -364,7 +364,7 @@ enum S {
         static let header = NSLocalizedString("ReScan.header", value: "**Sync Blockchain**", comment: "Sync Blockchain view header")
         static let subheader1 = NSLocalizedString("ReScan.subheader1", value: "**Estimated time**", comment: "Subheader label")
         static let subheader2 = NSLocalizedString("ReScan.subheader2", value: "**When to Sync?**", comment: "Subheader label")
-        static let body1 = NSLocalizedString("ReScan.body1", value: "**20-45 minutes**", comment: "extimated time")
+        static let body1 = NSLocalizedString("ReScan.body1", value: "**1-5 minutes**", comment: "extimated time")
         static let body2 = NSLocalizedString("ReScan.body2", value: "**If a transaction shows as completed on the Fastcoin network but not in your Fastwallet.**", comment: "Syncing explanation")
         static let body3 = NSLocalizedString("ReScan.body3", value: "**You repeatedly get an error saying your transaction was rejected.**", comment: "Syncing explanation")
         static let buttonTitle = NSLocalizedString("ReScan.buttonTitle", value: "**Start Sync**", comment: "Start Sync button label")
@@ -376,7 +376,7 @@ enum S {
 
     enum ShareData {
         static let header = NSLocalizedString("ShareData.header", value: "**Share Data?**", comment: "Share data header")
-        static let body = NSLocalizedString("ShareData.body", value: "**Help improve Fastwallet by sharing your anonymous data with us. This does not include any financial information. We respect your financial privacy.**", comment: "Share data view body")
+        static let body = NSLocalizedString("ShareData.body", value: "**Help improve Fastwallet by sharing anonymous app data with us. This does NOT include any financial or identifiable information.  It is only to see crash events.  We respect your financial privacy.**", comment: "Share data view body")
         static let toggleLabel = NSLocalizedString("ShareData.toggleLabel", value: "**Share Anonymous Data?**", comment: "Share data switch label.")
     }
 

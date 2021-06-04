@@ -32,8 +32,8 @@ extension UIColor {
       return #colorLiteral(red: 0.3019607843, green: 0.3019607843, blue: 0.3058823529, alpha: 1)
     }
     
-    static var liteWalletBlue: UIColor { //345D9D
-      return #colorLiteral(red: 0.2039215686, green: 0.3647058824, blue: 0.6156862745, alpha: 1)
+    static var liteWalletBlue: UIColor { //345D9D LTC //FF9F0A FST
+      return #colorLiteral(red: 1, green: 0.6235294118, blue: 0.03921568627, alpha: 1)
     }
     
     static var litecoinOrange: UIColor { // FE5F55
@@ -45,7 +45,7 @@ extension UIColor {
     }
     // MARK: Buttons
     static var primaryButton: UIColor {
-        return #colorLiteral(red: 0.2980392157, green: 0.5960784314, blue: 0.9882352941, alpha: 1)  //UIColor(red: 76.0/255.0, green: 152.0/255.0, blue: 252.0/255.0, alpha: 1.0)
+        return #colorLiteral(red: 1, green: 0.6235294118, blue: 0.03921568627, alpha: 1)  //FF9F0A FST//UIColor(red: 255.0/255.0, green: 159.0/255.0, blue: 10.0/255.0, alpha: 1.0)
     }
 
     static var primaryText: UIColor {
